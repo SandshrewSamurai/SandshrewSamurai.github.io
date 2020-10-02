@@ -1,0 +1,4042 @@
+[
+  {
+    "Nat": 460,
+    "Name": "Abomasnow"
+  },
+  {
+    "Nat": "460-mega",
+    "Name": "Abomasnow mega"
+  },
+  {
+    "Nat": 63,
+    "Name": "Abra"
+  },
+  {
+    "Nat": 359,
+    "Name": "Absol"
+  },
+  {
+    "Nat": "359-mega",
+    "Name": "Absol mega"
+  },
+  {
+    "Nat": 617,
+    "Name": "Accelgor"
+  },
+  {
+    "Nat": 681,
+    "Name": "Aegislash"
+  },
+  {
+    "Nat": 142,
+    "Name": "Aerodactyl"
+  },
+  {
+    "Nat": "142-mega",
+    "Name": "Aerodactyl mega"
+  },
+  {
+    "Nat": 306,
+    "Name": "Aggron"
+  },
+  {
+    "Nat": "306-mega",
+    "Name": "Aggron mega"
+  },
+  {
+    "Nat": 190,
+    "Name": "Aipom"
+  },
+  {
+    "Nat": 65,
+    "Name": "Alakazam"
+  },
+  {
+    "Nat": "65-mega",
+    "Name": "Alakazam mega"
+  },
+  {
+    "Nat": 594,
+    "Name": "Alomomola"
+  },
+  {
+    "Nat": 334,
+    "Name": "Altaria"
+  },
+  {
+    "Nat": "334-mega",
+    "Name": "Altaria mega"
+  },
+  {
+    "Nat": 698,
+    "Name": "Amaura"
+  },
+  {
+    "Nat": 424,
+    "Name": "Ambipom"
+  },
+  {
+    "Nat": 591,
+    "Name": "Amoonguss"
+  },
+  {
+    "Nat": 181,
+    "Name": "Ampharos"
+  },
+  {
+    "Nat": "181-mega",
+    "Name": "Ampharos mega"
+  },
+  {
+    "Nat": 347,
+    "Name": "Anorith"
+  },
+  {
+    "Nat": 752,
+    "Name": "Araquanid"
+  },
+  {
+    "Nat": 24,
+    "Name": "Arbok"
+  },
+  {
+    "Nat": 59,
+    "Name": "Arcanine"
+  },
+  {
+    "Nat": 493,
+    "Name": "Arceus"
+  },
+  {
+    "Nat": "493-bug",
+    "Name": "Arceus bug"
+  },
+  {
+    "Nat": "493-dark",
+    "Name": "Arceus dark"
+  },
+  {
+    "Nat": "493-dragon",
+    "Name": "Arceus dragon"
+  },
+  {
+    "Nat": "493-electric",
+    "Name": "Arceus electric"
+  },
+  {
+    "Nat": "493-fairy",
+    "Name": "Arceus fairy"
+  },
+  {
+    "Nat": "493-fighting",
+    "Name": "Arceus fighting"
+  },
+  {
+    "Nat": "493-fire",
+    "Name": "Arceus fire"
+  },
+  {
+    "Nat": "493-flying",
+    "Name": "Arceus flying"
+  },
+  {
+    "Nat": "493-ghost",
+    "Name": "Arceus ghost"
+  },
+  {
+    "Nat": "493-grass",
+    "Name": "Arceus grass"
+  },
+  {
+    "Nat": "493-ground",
+    "Name": "Arceus ground"
+  },
+  {
+    "Nat": "493-ice",
+    "Name": "Arceus ice"
+  },
+  {
+    "Nat": "493-poison",
+    "Name": "Arceus poison"
+  },
+  {
+    "Nat": "493-psychic",
+    "Name": "Arceus psychic"
+  },
+  {
+    "Nat": "493-rock",
+    "Name": "Arceus rock"
+  },
+  {
+    "Nat": "493-steel",
+    "Name": "Arceus steel"
+  },
+  {
+    "Nat": "493-water",
+    "Name": "Arceus water"
+  },
+  {
+    "Nat": 566,
+    "Name": "Archen"
+  },
+  {
+    "Nat": 567,
+    "Name": "Archeops"
+  },
+  {
+    "Nat": 168,
+    "Name": "Ariados"
+  },
+  {
+    "Nat": 348,
+    "Name": "Armaldo"
+  },
+  {
+    "Nat": 683,
+    "Name": "Aromatisse"
+  },
+  {
+    "Nat": 304,
+    "Name": "Aron"
+  },
+  {
+    "Nat": 144,
+    "Name": "Articuno"
+  },
+  {
+    "Nat": 531,
+    "Name": "Audino"
+  },
+  {
+    "Nat": 699,
+    "Name": "Aurorus"
+  },
+  {
+    "Nat": 713,
+    "Name": "Avalugg"
+  },
+  {
+    "Nat": 610,
+    "Name": "Axew"
+  },
+  {
+    "Nat": 482,
+    "Name": "Azelf"
+  },
+  {
+    "Nat": 184,
+    "Name": "Azumarill"
+  },
+  {
+    "Nat": 298,
+    "Name": "Azurill"
+  },
+  {
+    "Nat": 371,
+    "Name": "Bagon"
+  },
+  {
+    "Nat": 343,
+    "Name": "Baltoy"
+  },
+  {
+    "Nat": 354,
+    "Name": "Banette"
+  },
+  {
+    "Nat": 689,
+    "Name": "Barbaracle"
+  },
+  {
+    "Nat": 339,
+    "Name": "Barboach"
+  },
+  {
+    "Nat": 550,
+    "Name": "Basculin"
+  },
+  {
+    "Nat": "550-blue-striped",
+    "Name": "Basculin B"
+  },
+  {
+    "Nat": "550-red-striped",
+    "Name": "Basculin R"
+  },
+  {
+    "Nat": 411,
+    "Name": "Bastiodon"
+  },
+  {
+    "Nat": 153,
+    "Name": "Bayleef"
+  },
+  {
+    "Nat": 614,
+    "Name": "Beartic"
+  },
+  {
+    "Nat": 267,
+    "Name": "Beautifly"
+  },
+  {
+    "Nat": 15,
+    "Name": "Beedrill"
+  },
+  {
+    "Nat": "15-mega",
+    "Name": "Beedrill mega"
+  },
+  {
+    "Nat": 606,
+    "Name": "Beheeyem"
+  },
+  {
+    "Nat": 374,
+    "Name": "Beldum"
+  },
+  {
+    "Nat": 182,
+    "Name": "Bellossom"
+  },
+  {
+    "Nat": 69,
+    "Name": "Bellsprout"
+  },
+  {
+    "Nat": 712,
+    "Name": "Bergmite"
+  },
+  {
+    "Nat": 760,
+    "Name": "Bewar"
+  },
+  {
+    "Nat": 400,
+    "Name": "Bibarel"
+  },
+  {
+    "Nat": 399,
+    "Name": "Bidoof"
+  },
+  {
+    "Nat": 688,
+    "Name": "Binacle"
+  },
+  {
+    "Nat": 625,
+    "Name": "Bisharp"
+  },
+  {
+    "Nat": 806,
+    "Name": "Blacephalon"
+  },
+  {
+    "Nat": 0,
+    "Name": ""
+  },
+  {
+    "Nat": 9,
+    "Name": "Blastoise"
+  },
+  {
+    "Nat": "9-mega",
+    "Name": "Blastoise mega"
+  },
+  {
+    "Nat": 257,
+    "Name": "Blaziken"
+  },
+  {
+    "Nat": "257-mega",
+    "Name": "Blaziken mega"
+  },
+  {
+    "Nat": 242,
+    "Name": "Blissey"
+  },
+  {
+    "Nat": 522,
+    "Name": "Blitzle"
+  },
+  {
+    "Nat": 525,
+    "Name": "Boldore"
+  },
+  {
+    "Nat": 438,
+    "Name": "Bonsly"
+  },
+  {
+    "Nat": 626,
+    "Name": "Bouffalant"
+  },
+  {
+    "Nat": 761,
+    "Name": "Bounsweet"
+  },
+  {
+    "Nat": 654,
+    "Name": "Braixen"
+  },
+  {
+    "Nat": 628,
+    "Name": "Braviary"
+  },
+  {
+    "Nat": 286,
+    "Name": "Breloom"
+  },
+  {
+    "Nat": 729,
+    "Name": "Brionne"
+  },
+  {
+    "Nat": 437,
+    "Name": "Bronzong"
+  },
+  {
+    "Nat": 436,
+    "Name": "Bronzor"
+  },
+  {
+    "Nat": 779,
+    "Name": "Bruxish"
+  },
+  {
+    "Nat": 406,
+    "Name": "Budew"
+  },
+  {
+    "Nat": 418,
+    "Name": "Buizel"
+  },
+  {
+    "Nat": 1,
+    "Name": "Bulbasaur"
+  },
+  {
+    "Nat": 427,
+    "Name": "Buneary"
+  },
+  {
+    "Nat": 659,
+    "Name": "Bunnelby"
+  },
+  {
+    "Nat": 412,
+    "Name": "Burmy"
+  },
+  {
+    "Nat": "412-plant",
+    "Name": "Burmy plant"
+  },
+  {
+    "Nat": "412-sandy",
+    "Name": "Burmy sandy"
+  },
+  {
+    "Nat": "412-trash",
+    "Name": "Burmy trash"
+  },
+  {
+    "Nat": 12,
+    "Name": "Butterfree"
+  },
+  {
+    "Nat": 794,
+    "Name": "Buzzwole"
+  },
+  {
+    "Nat": 331,
+    "Name": "Cacnea"
+  },
+  {
+    "Nat": 332,
+    "Name": "Cacturne"
+  },
+  {
+    "Nat": 323,
+    "Name": "Camerupt"
+  },
+  {
+    "Nat": "323-mega",
+    "Name": "Camerupt mega"
+  },
+  {
+    "Nat": 703,
+    "Name": "Carbink"
+  },
+  {
+    "Nat": 455,
+    "Name": "Carnivine"
+  },
+  {
+    "Nat": 565,
+    "Name": "Carracosta"
+  },
+  {
+    "Nat": 318,
+    "Name": "Carvanha"
+  },
+  {
+    "Nat": 268,
+    "Name": "Cascoon"
+  },
+  {
+    "Nat": 351,
+    "Name": "Castform"
+  },
+  {
+    "Nat": "351-snowy",
+    "Name": "Castform hail"
+  },
+  {
+    "Nat": "351-rainy",
+    "Name": "Castform rain"
+  },
+  {
+    "Nat": "351-sunny",
+    "Name": "Castform sun"
+  },
+  {
+    "Nat": 10,
+    "Name": "Caterpie"
+  },
+  {
+    "Nat": 251,
+    "Name": "Celebi"
+  },
+  {
+    "Nat": 797,
+    "Name": "Celesteela"
+  },
+  {
+    "Nat": 609,
+    "Name": "Chandelure"
+  },
+  {
+    "Nat": 113,
+    "Name": "Chansey"
+  },
+  {
+    "Nat": 6,
+    "Name": "Charizard"
+  },
+  {
+    "Nat": "6-mega-x",
+    "Name": "Charizard mega X"
+  },
+  {
+    "Nat": "6-mega-y",
+    "Name": "Charizard mega Y"
+  },
+  {
+    "Nat": 737,
+    "Name": "Charjabug"
+  },
+  {
+    "Nat": 4,
+    "Name": "Charmander"
+  },
+  {
+    "Nat": 5,
+    "Name": "Charmeleon"
+  },
+  {
+    "Nat": 441,
+    "Name": "Chatot"
+  },
+  {
+    "Nat": 421,
+    "Name": "Cherrim"
+  },
+  {
+    "Nat": "421-sunshine",
+    "Name": "Cherrim sun"
+  },
+  {
+    "Nat": 420,
+    "Name": "Cherubi"
+  },
+  {
+    "Nat": 652,
+    "Name": "Chesnaught"
+  },
+  {
+    "Nat": 650,
+    "Name": "Chespin"
+  },
+  {
+    "Nat": 152,
+    "Name": "Chikorita"
+  },
+  {
+    "Nat": 390,
+    "Name": "Chimchar"
+  },
+  {
+    "Nat": 358,
+    "Name": "Chimecho"
+  },
+  {
+    "Nat": 170,
+    "Name": "Chinchou"
+  },
+  {
+    "Nat": 433,
+    "Name": "Chingling"
+  },
+  {
+    "Nat": 573,
+    "Name": "Cinccino"
+  },
+  {
+    "Nat": 366,
+    "Name": "Clamperl"
+  },
+  {
+    "Nat": 692,
+    "Name": "Clauncher"
+  },
+  {
+    "Nat": 693,
+    "Name": "Clawitzer"
+  },
+  {
+    "Nat": 344,
+    "Name": "Claydol"
+  },
+  {
+    "Nat": 36,
+    "Name": "Clefable"
+  },
+  {
+    "Nat": 35,
+    "Name": "Clefairy"
+  },
+  {
+    "Nat": 173,
+    "Name": "Cleffa"
+  },
+  {
+    "Nat": 91,
+    "Name": "Cloyster"
+  },
+  {
+    "Nat": 638,
+    "Name": "Cobalion"
+  },
+  {
+    "Nat": 563,
+    "Name": "Cofagrigus"
+  },
+  {
+    "Nat": 415,
+    "Name": "Combee"
+  },
+  {
+    "Nat": 256,
+    "Name": "Combusken"
+  },
+  {
+    "Nat": 764,
+    "Name": "Comfey"
+  },
+  {
+    "Nat": 534,
+    "Name": "Conkeldurr"
+  },
+  {
+    "Nat": 341,
+    "Name": "Corphish"
+  },
+  {
+    "Nat": 222,
+    "Name": "Corsola"
+  },
+  {
+    "Nat": 790,
+    "Name": "Cosmoem"
+  },
+  {
+    "Nat": 789,
+    "Name": "Cosmog"
+  },
+  {
+    "Nat": 546,
+    "Name": "Cottonee"
+  },
+  {
+    "Nat": 740,
+    "Name": "Crabominable"
+  },
+  {
+    "Nat": 739,
+    "Name": "Crabrawler"
+  },
+  {
+    "Nat": 346,
+    "Name": "Cradily"
+  },
+  {
+    "Nat": 408,
+    "Name": "Cranidos"
+  },
+  {
+    "Nat": 342,
+    "Name": "Crawdaunt"
+  },
+  {
+    "Nat": 488,
+    "Name": "Cresselia"
+  },
+  {
+    "Nat": 453,
+    "Name": "Croagunk"
+  },
+  {
+    "Nat": 169,
+    "Name": "Crobat"
+  },
+  {
+    "Nat": 159,
+    "Name": "Croconaw"
+  },
+  {
+    "Nat": 558,
+    "Name": "Crustle"
+  },
+  {
+    "Nat": 615,
+    "Name": "Cryogonal"
+  },
+  {
+    "Nat": 613,
+    "Name": "Cubchoo"
+  },
+  {
+    "Nat": 104,
+    "Name": "Cubone"
+  },
+  {
+    "Nat": 742,
+    "Name": "Cutiefly"
+  },
+  {
+    "Nat": 155,
+    "Name": "Cyndaquil"
+  },
+  {
+    "Nat": 491,
+    "Name": "Darkrai"
+  },
+  {
+    "Nat": 555,
+    "Name": "Darmanitan"
+  },
+  {
+    "Nat": "555-zen",
+    "Name": "Darmanitan Zen"
+  },
+  {
+    "Nat": 723,
+    "Name": "Dartrix"
+  },
+  {
+    "Nat": 554,
+    "Name": "Darumaka"
+  },
+  {
+    "Nat": 724,
+    "Name": "Decidueye"
+  },
+  {
+    "Nat": 702,
+    "Name": "Dedenne"
+  },
+  {
+    "Nat": 585,
+    "Name": "Deerling"
+  },
+  {
+    "Nat": "585-autumn",
+    "Name": "Deerling Autumn"
+  },
+  {
+    "Nat": "585-spring",
+    "Name": "Deerling Spring"
+  },
+  {
+    "Nat": "585-summer",
+    "Name": "Deerling Summer"
+  },
+  {
+    "Nat": "585-winter",
+    "Name": "Deerling Winter"
+  },
+  {
+    "Nat": 633,
+    "Name": "Deino"
+  },
+  {
+    "Nat": 301,
+    "Name": "Delcatty"
+  },
+  {
+    "Nat": 225,
+    "Name": "Delibird"
+  },
+  {
+    "Nat": 655,
+    "Name": "Delphox"
+  },
+  {
+    "Nat": 386,
+    "Name": "Deoxys"
+  },
+  {
+    "Nat": "386-attack",
+    "Name": "Deoxys attack"
+  },
+  {
+    "Nat": "386-defense",
+    "Name": "Deoxys defense"
+  },
+  {
+    "Nat": "386-speed",
+    "Name": "Deoxys speed"
+  },
+  {
+    "Nat": 87,
+    "Name": "Dewgong"
+  },
+  {
+    "Nat": 502,
+    "Name": "Dewott"
+  },
+  {
+    "Nat": 751,
+    "Name": "Dewpider"
+  },
+  {
+    "Nat": 781,
+    "Name": "Dhelmise"
+  },
+  {
+    "Nat": 483,
+    "Name": "Dialga"
+  },
+  {
+    "Nat": 719,
+    "Name": "Diancie"
+  },
+  {
+    "Nat": "719-mega",
+    "Name": "Diancie mega"
+  },
+  {
+    "Nat": 660,
+    "Name": "Diggersby"
+  },
+  {
+    "Nat": 50,
+    "Name": "Diglett"
+  },
+  {
+    "Nat": "50-alola",
+    "Name": "Diglett Alola"
+  },
+  {
+    "Nat": 132,
+    "Name": "Ditto"
+  },
+  {
+    "Nat": 85,
+    "Name": "Dodrio"
+  },
+  {
+    "Nat": 84,
+    "Name": "Doduo"
+  },
+  {
+    "Nat": 232,
+    "Name": "Donphan"
+  },
+  {
+    "Nat": 680,
+    "Name": "Doublade"
+  },
+  {
+    "Nat": 691,
+    "Name": "Dragalge"
+  },
+  {
+    "Nat": 148,
+    "Name": "Dragonair"
+  },
+  {
+    "Nat": 149,
+    "Name": "Dragonite"
+  },
+  {
+    "Nat": 780,
+    "Name": "Drampa"
+  },
+  {
+    "Nat": 452,
+    "Name": "Drapion"
+  },
+  {
+    "Nat": 147,
+    "Name": "Dratini"
+  },
+  {
+    "Nat": 426,
+    "Name": "Drifblim"
+  },
+  {
+    "Nat": 425,
+    "Name": "Drifloon"
+  },
+  {
+    "Nat": 529,
+    "Name": "Drilbur"
+  },
+  {
+    "Nat": 96,
+    "Name": "Drowzee"
+  },
+  {
+    "Nat": 621,
+    "Name": "Druddigon"
+  },
+  {
+    "Nat": 580,
+    "Name": "Ducklett"
+  },
+  {
+    "Nat": 51,
+    "Name": "Dugtrio"
+  },
+  {
+    "Nat": "51-alola",
+    "Name": "Dugtrio Alola"
+  },
+  {
+    "Nat": 206,
+    "Name": "Dunsparce"
+  },
+  {
+    "Nat": 578,
+    "Name": "Duosion"
+  },
+  {
+    "Nat": 632,
+    "Name": "Durant"
+  },
+  {
+    "Nat": 356,
+    "Name": "Dusclops"
+  },
+  {
+    "Nat": 477,
+    "Name": "Dusknoir"
+  },
+  {
+    "Nat": 355,
+    "Name": "Duskull"
+  },
+  {
+    "Nat": 269,
+    "Name": "Dustox"
+  },
+  {
+    "Nat": 557,
+    "Name": "Dwebble"
+  },
+  {
+    "Nat": 603,
+    "Name": "Eelektrik"
+  },
+  {
+    "Nat": 604,
+    "Name": "Eelektross"
+  },
+  {
+    "Nat": 133,
+    "Name": "Eevee"
+  },
+  {
+    "Nat": 23,
+    "Name": "Ekans"
+  },
+  {
+    "Nat": 125,
+    "Name": "Electabuzz"
+  },
+  {
+    "Nat": 466,
+    "Name": "Electivire"
+  },
+  {
+    "Nat": 309,
+    "Name": "Electrike"
+  },
+  {
+    "Nat": 101,
+    "Name": "Electrode"
+  },
+  {
+    "Nat": 239,
+    "Name": "Elekid"
+  },
+  {
+    "Nat": 605,
+    "Name": "Elgyem"
+  },
+  {
+    "Nat": 500,
+    "Name": "Emboar"
+  },
+  {
+    "Nat": 587,
+    "Name": "Emolga"
+  },
+  {
+    "Nat": 395,
+    "Name": "Empoleon"
+  },
+  {
+    "Nat": 244,
+    "Name": "Entei"
+  },
+  {
+    "Nat": 589,
+    "Name": "Escavalier"
+  },
+  {
+    "Nat": 196,
+    "Name": "Espeon"
+  },
+  {
+    "Nat": 677,
+    "Name": "Espurr"
+  },
+  {
+    "Nat": 530,
+    "Name": "Excadrill"
+  },
+  {
+    "Nat": 102,
+    "Name": "Exeggcute"
+  },
+  {
+    "Nat": 103,
+    "Name": "Exeggutor"
+  },
+  {
+    "Nat": "103-alola",
+    "Name": "Exeggutor Alola"
+  },
+  {
+    "Nat": 295,
+    "Name": "Exploud"
+  },
+  {
+    "Nat": 83,
+    "Name": "Farfetch'd"
+  },
+  {
+    "Nat": 22,
+    "Name": "Fearow"
+  },
+  {
+    "Nat": 349,
+    "Name": "Feebas"
+  },
+  {
+    "Nat": 653,
+    "Name": "Fennekin"
+  },
+  {
+    "Nat": 160,
+    "Name": "Feraligatr"
+  },
+  {
+    "Nat": 597,
+    "Name": "Ferroseed"
+  },
+  {
+    "Nat": 598,
+    "Name": "Ferrothorn"
+  },
+  {
+    "Nat": 456,
+    "Name": "Finneon"
+  },
+  {
+    "Nat": 180,
+    "Name": "Flaaffy"
+  },
+  {
+    "Nat": 669,
+    "Name": "Flabébé"
+  },
+  {
+    "Nat": "669-blue",
+    "Name": "Flabébé B"
+  },
+  {
+    "Nat": "669-orange",
+    "Name": "Flabébé O"
+  },
+  {
+    "Nat": "669-red",
+    "Name": "Flabébé R"
+  },
+  {
+    "Nat": "669-white",
+    "Name": "Flabébé W"
+  },
+  {
+    "Nat": "669-yellow",
+    "Name": "Flabébé Y"
+  },
+  {
+    "Nat": 136,
+    "Name": "Flareon"
+  },
+  {
+    "Nat": 662,
+    "Name": "Fletchinder"
+  },
+  {
+    "Nat": 661,
+    "Name": "Fletchling"
+  },
+  {
+    "Nat": 419,
+    "Name": "Floatzel"
+  },
+  {
+    "Nat": 670,
+    "Name": "Floette"
+  },
+  {
+    "Nat": "670-blue",
+    "Name": "Floette B"
+  },
+  {
+    "Nat": "670-orange",
+    "Name": "Floette O"
+  },
+  {
+    "Nat": "670-red",
+    "Name": "Floette R"
+  },
+  {
+    "Nat": "670-white",
+    "Name": "Floette W"
+  },
+  {
+    "Nat": "670-yellow",
+    "Name": "Floette Y"
+  },
+  {
+    "Nat": 671,
+    "Name": "Florges"
+  },
+  {
+    "Nat": "671-blue",
+    "Name": "Florges B"
+  },
+  {
+    "Nat": "671-orange",
+    "Name": "Florges O"
+  },
+  {
+    "Nat": "671-red",
+    "Name": "Florges R"
+  },
+  {
+    "Nat": "671-white",
+    "Name": "Florges W"
+  },
+  {
+    "Nat": "671-yellow",
+    "Name": "Florges Y"
+  },
+  {
+    "Nat": 330,
+    "Name": "Flygon"
+  },
+  {
+    "Nat": 753,
+    "Name": "Fomantis"
+  },
+  {
+    "Nat": 590,
+    "Name": "Foongus"
+  },
+  {
+    "Nat": 205,
+    "Name": "Forretress"
+  },
+  {
+    "Nat": 611,
+    "Name": "Fraxure"
+  },
+  {
+    "Nat": 592,
+    "Name": "Frillish"
+  },
+  {
+    "Nat": "592-female",
+    "Name": "Frillish F"
+  },
+  {
+    "Nat": 656,
+    "Name": "Froakie"
+  },
+  {
+    "Nat": 657,
+    "Name": "Frogadier"
+  },
+  {
+    "Nat": 478,
+    "Name": "Froslass"
+  },
+  {
+    "Nat": 676,
+    "Name": "Furfrou"
+  },
+  {
+    "Nat": 162,
+    "Name": "Furret"
+  },
+  {
+    "Nat": 444,
+    "Name": "Gabite"
+  },
+  {
+    "Nat": 475,
+    "Name": "Gallade"
+  },
+  {
+    "Nat": "475-mega",
+    "Name": "Gallade mega"
+  },
+  {
+    "Nat": 596,
+    "Name": "Galvantula"
+  },
+  {
+    "Nat": 569,
+    "Name": "Garbodor"
+  },
+  {
+    "Nat": 445,
+    "Name": "Garchomp"
+  },
+  {
+    "Nat": "445-mega",
+    "Name": "Garchomp mega"
+  },
+  {
+    "Nat": 282,
+    "Name": "Gardevoir"
+  },
+  {
+    "Nat": "282-mega",
+    "Name": "Gardevoir mega"
+  },
+  {
+    "Nat": 92,
+    "Name": "Gastly"
+  },
+  {
+    "Nat": 423,
+    "Name": "Gastrodon"
+  },
+  {
+    "Nat": "423-east",
+    "Name": "Gastrodon E"
+  },
+  {
+    "Nat": "423-west",
+    "Name": "Gastrodon W"
+  },
+  {
+    "Nat": 649,
+    "Name": "Genesect"
+  },
+  {
+    "Nat": "649-burn",
+    "Name": "Genesect burn"
+  },
+  {
+    "Nat": "649-chill",
+    "Name": "Genesect chill"
+  },
+  {
+    "Nat": "649-douse",
+    "Name": "Genesect douse"
+  },
+  {
+    "Nat": "649-shock",
+    "Name": "Genesect shock"
+  },
+  {
+    "Nat": 94,
+    "Name": "Gengar"
+  },
+  {
+    "Nat": "94-mega",
+    "Name": "Gengar mega"
+  },
+  {
+    "Nat": 74,
+    "Name": "Geodude"
+  },
+  {
+    "Nat": "74-alola",
+    "Name": "Geodude Alola"
+  },
+  {
+    "Nat": 443,
+    "Name": "Gible"
+  },
+  {
+    "Nat": 526,
+    "Name": "Gigalith"
+  },
+  {
+    "Nat": 203,
+    "Name": "Girafarig"
+  },
+  {
+    "Nat": 487,
+    "Name": "Giratina"
+  },
+  {
+    "Nat": "487-origin",
+    "Name": "Giratina origin"
+  },
+  {
+    "Nat": 471,
+    "Name": "Glaceon"
+  },
+  {
+    "Nat": 362,
+    "Name": "Glalie"
+  },
+  {
+    "Nat": 431,
+    "Name": "Glameow"
+  },
+  {
+    "Nat": 207,
+    "Name": "Gligar"
+  },
+  {
+    "Nat": 472,
+    "Name": "Gliscor"
+  },
+  {
+    "Nat": 44,
+    "Name": "Gloom"
+  },
+  {
+    "Nat": 673,
+    "Name": "Gogoat"
+  },
+  {
+    "Nat": 42,
+    "Name": "Golbat"
+  },
+  {
+    "Nat": 118,
+    "Name": "Goldeen"
+  },
+  {
+    "Nat": 55,
+    "Name": "Golduck"
+  },
+  {
+    "Nat": 76,
+    "Name": "Golem"
+  },
+  {
+    "Nat": "76-alola",
+    "Name": "Golem Alola"
+  },
+  {
+    "Nat": 622,
+    "Name": "Golett"
+  },
+  {
+    "Nat": 768,
+    "Name": "Golisopod"
+  },
+  {
+    "Nat": 623,
+    "Name": "Golurk"
+  },
+  {
+    "Nat": 706,
+    "Name": "Goodra"
+  },
+  {
+    "Nat": 704,
+    "Name": "Goomy"
+  },
+  {
+    "Nat": 368,
+    "Name": "Gorebyss"
+  },
+  {
+    "Nat": 574,
+    "Name": "Gothita"
+  },
+  {
+    "Nat": 576,
+    "Name": "Gothitelle"
+  },
+  {
+    "Nat": 575,
+    "Name": "Gothorita"
+  },
+  {
+    "Nat": 711,
+    "Name": "Gourgeist"
+  },
+  {
+    "Nat": 210,
+    "Name": "Granbull"
+  },
+  {
+    "Nat": 75,
+    "Name": "Graveler"
+  },
+  {
+    "Nat": "75-alola",
+    "Name": "Graveler Alola"
+  },
+  {
+    "Nat": 658,
+    "Name": "Greninja"
+  },
+  {
+    "Nat": 88,
+    "Name": "Grimer"
+  },
+  {
+    "Nat": "88-alola",
+    "Name": "Grimer Alola"
+  },
+  {
+    "Nat": 388,
+    "Name": "Grotle"
+  },
+  {
+    "Nat": 383,
+    "Name": "Groudon"
+  },
+  {
+    "Nat": "383-primal",
+    "Name": "Groudon primal"
+  },
+  {
+    "Nat": 253,
+    "Name": "Grovyle"
+  },
+  {
+    "Nat": 58,
+    "Name": "Growlithe"
+  },
+  {
+    "Nat": 736,
+    "Name": "Grubbin"
+  },
+  {
+    "Nat": 326,
+    "Name": "Grumpig"
+  },
+  {
+    "Nat": 316,
+    "Name": "Gulpin"
+  },
+  {
+    "Nat": 735,
+    "Name": "Gumshoos"
+  },
+  {
+    "Nat": 533,
+    "Name": "Gurdurr"
+  },
+  {
+    "Nat": 799,
+    "Name": "Guzzlord"
+  },
+  {
+    "Nat": 130,
+    "Name": "Gyarados"
+  },
+  {
+    "Nat": "130-mega",
+    "Name": "Gyarados mega"
+  },
+  {
+    "Nat": 783,
+    "Name": "Hakamo-o"
+  },
+  {
+    "Nat": 440,
+    "Name": "Happiny"
+  },
+  {
+    "Nat": 297,
+    "Name": "Hariyama"
+  },
+  {
+    "Nat": 93,
+    "Name": "Haunter"
+  },
+  {
+    "Nat": 701,
+    "Name": "Hawlucha"
+  },
+  {
+    "Nat": 612,
+    "Name": "Haxorus"
+  },
+  {
+    "Nat": 631,
+    "Name": "Heatmor"
+  },
+  {
+    "Nat": 485,
+    "Name": "Heatran"
+  },
+  {
+    "Nat": 695,
+    "Name": "Heliolisk"
+  },
+  {
+    "Nat": 694,
+    "Name": "Helioptile"
+  },
+  {
+    "Nat": 214,
+    "Name": "Heracross"
+  },
+  {
+    "Nat": "214-mega",
+    "Name": "Heracross mega"
+  },
+  {
+    "Nat": 507,
+    "Name": "Herdier"
+  },
+  {
+    "Nat": 449,
+    "Name": "Hippopotas"
+  },
+  {
+    "Nat": 450,
+    "Name": "Hippowdon"
+  },
+  {
+    "Nat": 107,
+    "Name": "Hitmonchan"
+  },
+  {
+    "Nat": 106,
+    "Name": "Hitmonlee"
+  },
+  {
+    "Nat": 237,
+    "Name": "Hitmontop"
+  },
+  {
+    "Nat": 250,
+    "Name": "Ho-oh"
+  },
+  {
+    "Nat": 430,
+    "Name": "Honchkrow"
+  },
+  {
+    "Nat": 679,
+    "Name": "Honedge"
+  },
+  {
+    "Nat": 720,
+    "Name": "Hoopa"
+  },
+  {
+    "Nat": "720-unbound",
+    "Name": "Hoopa unbound"
+  },
+  {
+    "Nat": 163,
+    "Name": "Hoothoot"
+  },
+  {
+    "Nat": 187,
+    "Name": "Hoppip"
+  },
+  {
+    "Nat": 116,
+    "Name": "Horsea"
+  },
+  {
+    "Nat": 229,
+    "Name": "Houndoom"
+  },
+  {
+    "Nat": "229-mega",
+    "Name": "Houndoom mega"
+  },
+  {
+    "Nat": 228,
+    "Name": "Houndour"
+  },
+  {
+    "Nat": 367,
+    "Name": "Huntail"
+  },
+  {
+    "Nat": 635,
+    "Name": "Hydreigon"
+  },
+  {
+    "Nat": 97,
+    "Name": "Hypno"
+  },
+  {
+    "Nat": 174,
+    "Name": "Igglybuff"
+  },
+  {
+    "Nat": 314,
+    "Name": "Illumise"
+  },
+  {
+    "Nat": 727,
+    "Name": "Incineroar"
+  },
+  {
+    "Nat": 392,
+    "Name": "Infernape"
+  },
+  {
+    "Nat": 686,
+    "Name": "Inkay"
+  },
+  {
+    "Nat": 2,
+    "Name": "Ivysaur"
+  },
+  {
+    "Nat": 782,
+    "Name": "Jangmo-o"
+  },
+  {
+    "Nat": 593,
+    "Name": "Jellicent"
+  },
+  {
+    "Nat": "593-female",
+    "Name": "Jellicent F"
+  },
+  {
+    "Nat": 39,
+    "Name": "Jigglypuff"
+  },
+  {
+    "Nat": 385,
+    "Name": "Jirachi"
+  },
+  {
+    "Nat": 135,
+    "Name": "Jolteon"
+  },
+  {
+    "Nat": 595,
+    "Name": "Joltik"
+  },
+  {
+    "Nat": 189,
+    "Name": "Jumpluff"
+  },
+  {
+    "Nat": 124,
+    "Name": "Jynx"
+  },
+  {
+    "Nat": 140,
+    "Name": "Kabuto"
+  },
+  {
+    "Nat": 141,
+    "Name": "Kabutops"
+  },
+  {
+    "Nat": 64,
+    "Name": "Kadabra"
+  },
+  {
+    "Nat": 14,
+    "Name": "Kakuna"
+  },
+  {
+    "Nat": 115,
+    "Name": "Kangaskhan"
+  },
+  {
+    "Nat": 588,
+    "Name": "Karrablast"
+  },
+  {
+    "Nat": 798,
+    "Name": "Kartana"
+  },
+  {
+    "Nat": 352,
+    "Name": "Kecleon"
+  },
+  {
+    "Nat": 647,
+    "Name": "Keldeo"
+  },
+  {
+    "Nat": 230,
+    "Name": "Kingdra"
+  },
+  {
+    "Nat": 99,
+    "Name": "Kingler"
+  },
+  {
+    "Nat": 281,
+    "Name": "Kirlia"
+  },
+  {
+    "Nat": 600,
+    "Name": "Klang"
+  },
+  {
+    "Nat": 707,
+    "Name": "Klefki"
+  },
+  {
+    "Nat": 599,
+    "Name": "Klink"
+  },
+  {
+    "Nat": 601,
+    "Name": "Klinklang"
+  },
+  {
+    "Nat": 109,
+    "Name": "Koffing"
+  },
+  {
+    "Nat": 775,
+    "Name": "Komala"
+  },
+  {
+    "Nat": 784,
+    "Name": "Kommo-o"
+  },
+  {
+    "Nat": 98,
+    "Name": "Krabby"
+  },
+  {
+    "Nat": 401,
+    "Name": "Kricketot"
+  },
+  {
+    "Nat": 402,
+    "Name": "Kricketune"
+  },
+  {
+    "Nat": 552,
+    "Name": "Krokorok"
+  },
+  {
+    "Nat": 553,
+    "Name": "Krookodile"
+  },
+  {
+    "Nat": 382,
+    "Name": "Kyogre"
+  },
+  {
+    "Nat": "382-primal",
+    "Name": "Kyogre primal"
+  },
+  {
+    "Nat": 646,
+    "Name": "Kyurem"
+  },
+  {
+    "Nat": "646-black",
+    "Name": "Kyurem B"
+  },
+  {
+    "Nat": "646-white",
+    "Name": "Kyurem W"
+  },
+  {
+    "Nat": 305,
+    "Name": "Lairon"
+  },
+  {
+    "Nat": 608,
+    "Name": "Lampent"
+  },
+  {
+    "Nat": 645,
+    "Name": "Landorus"
+  },
+  {
+    "Nat": "645-therian",
+    "Name": "Landorus T"
+  },
+  {
+    "Nat": 171,
+    "Name": "Lanturn"
+  },
+  {
+    "Nat": 131,
+    "Name": "Lapras"
+  },
+  {
+    "Nat": 636,
+    "Name": "Larvesta"
+  },
+  {
+    "Nat": 246,
+    "Name": "Larvitar"
+  },
+  {
+    "Nat": 380,
+    "Name": "Latias"
+  },
+  {
+    "Nat": "380-mega",
+    "Name": "Latias mega"
+  },
+  {
+    "Nat": 381,
+    "Name": "Latios"
+  },
+  {
+    "Nat": "381-mega",
+    "Name": "Latios mega"
+  },
+  {
+    "Nat": 470,
+    "Name": "Leafeon"
+  },
+  {
+    "Nat": 542,
+    "Name": "Leavanny"
+  },
+  {
+    "Nat": 166,
+    "Name": "Ledian"
+  },
+  {
+    "Nat": 165,
+    "Name": "Ledyba"
+  },
+  {
+    "Nat": 463,
+    "Name": "Lickilicky"
+  },
+  {
+    "Nat": 108,
+    "Name": "Lickitung"
+  },
+  {
+    "Nat": 510,
+    "Name": "Liepard"
+  },
+  {
+    "Nat": 345,
+    "Name": "Lileep"
+  },
+  {
+    "Nat": 549,
+    "Name": "Lilligant"
+  },
+  {
+    "Nat": 506,
+    "Name": "Lillipup"
+  },
+  {
+    "Nat": 264,
+    "Name": "Linoone"
+  },
+  {
+    "Nat": 667,
+    "Name": "Litleo"
+  },
+  {
+    "Nat": 725,
+    "Name": "Litten"
+  },
+  {
+    "Nat": 607,
+    "Name": "Litwick"
+  },
+  {
+    "Nat": 271,
+    "Name": "Lombre"
+  },
+  {
+    "Nat": 428,
+    "Name": "Lopunny"
+  },
+  {
+    "Nat": "428-mega",
+    "Name": "Lopunny mega"
+  },
+  {
+    "Nat": 270,
+    "Name": "Lotad"
+  },
+  {
+    "Nat": 294,
+    "Name": "Loudred"
+  },
+  {
+    "Nat": 448,
+    "Name": "Lucario"
+  },
+  {
+    "Nat": "448-mega",
+    "Name": "Lucario mega"
+  },
+  {
+    "Nat": 272,
+    "Name": "Ludicolo"
+  },
+  {
+    "Nat": 249,
+    "Name": "Lugia"
+  },
+  {
+    "Nat": 457,
+    "Name": "Lumineon"
+  },
+  {
+    "Nat": 792,
+    "Name": "Lunala"
+  },
+  {
+    "Nat": 337,
+    "Name": "Lunatone"
+  },
+  {
+    "Nat": 754,
+    "Name": "Lurantis"
+  },
+  {
+    "Nat": 370,
+    "Name": "Luvdisc"
+  },
+  {
+    "Nat": 404,
+    "Name": "Luxio"
+  },
+  {
+    "Nat": 405,
+    "Name": "Luxray"
+  },
+  {
+    "Nat": 745,
+    "Name": "Lycanroc"
+  },
+  {
+    "Nat": 68,
+    "Name": "Machamp"
+  },
+  {
+    "Nat": 67,
+    "Name": "Machoke"
+  },
+  {
+    "Nat": 66,
+    "Name": "Machop"
+  },
+  {
+    "Nat": 240,
+    "Name": "Magby"
+  },
+  {
+    "Nat": 219,
+    "Name": "Magcargo"
+  },
+  {
+    "Nat": 801,
+    "Name": "Magearna"
+  },
+  {
+    "Nat": 129,
+    "Name": "Magikarp"
+  },
+  {
+    "Nat": 126,
+    "Name": "Magmar"
+  },
+  {
+    "Nat": 467,
+    "Name": "Magmortar"
+  },
+  {
+    "Nat": 81,
+    "Name": "Magnemite"
+  },
+  {
+    "Nat": 82,
+    "Name": "Magneton"
+  },
+  {
+    "Nat": 462,
+    "Name": "Magnezone"
+  },
+  {
+    "Nat": 296,
+    "Name": "Makuhita"
+  },
+  {
+    "Nat": 687,
+    "Name": "Malamar"
+  },
+  {
+    "Nat": 473,
+    "Name": "Mamoswine"
+  },
+  {
+    "Nat": 490,
+    "Name": "Manaphy"
+  },
+  {
+    "Nat": 630,
+    "Name": "Mandibuzz"
+  },
+  {
+    "Nat": 310,
+    "Name": "Manectric"
+  },
+  {
+    "Nat": "310-mega",
+    "Name": "Manectric mega"
+  },
+  {
+    "Nat": 56,
+    "Name": "Mankey"
+  },
+  {
+    "Nat": 226,
+    "Name": "Mantine"
+  },
+  {
+    "Nat": 458,
+    "Name": "Mantyke"
+  },
+  {
+    "Nat": 556,
+    "Name": "Maractus"
+  },
+  {
+    "Nat": 747,
+    "Name": "Mareanie"
+  },
+  {
+    "Nat": 179,
+    "Name": "Mareep"
+  },
+  {
+    "Nat": 183,
+    "Name": "Marill"
+  },
+  {
+    "Nat": 105,
+    "Name": "Marowak"
+  },
+  {
+    "Nat": "105-alola",
+    "Name": "Marowak Alola"
+  },
+  {
+    "Nat": 802,
+    "Name": "Marshadow"
+  },
+  {
+    "Nat": 259,
+    "Name": "Marshtomp"
+  },
+  {
+    "Nat": 284,
+    "Name": "Masquerain"
+  },
+  {
+    "Nat": 303,
+    "Name": "Mawile"
+  },
+  {
+    "Nat": "303-mega",
+    "Name": "Mawile mega"
+  },
+  {
+    "Nat": "800-ultra",
+    "Name": "Mecrozma ultra"
+  },
+  {
+    "Nat": 308,
+    "Name": "Medicham"
+  },
+  {
+    "Nat": "308-mega",
+    "Name": "Medicham mega"
+  },
+  {
+    "Nat": 307,
+    "Name": "Meditite"
+  },
+  {
+    "Nat": 154,
+    "Name": "Meganium"
+  },
+  {
+    "Nat": 648,
+    "Name": "Meloetta"
+  },
+  {
+    "Nat": 678,
+    "Name": "Meowstic"
+  },
+  {
+    "Nat": 52,
+    "Name": "Meowth"
+  },
+  {
+    "Nat": "52-alola",
+    "Name": "Meowth Alola"
+  },
+  {
+    "Nat": 481,
+    "Name": "Mesprit"
+  },
+  {
+    "Nat": 376,
+    "Name": "Metagross"
+  },
+  {
+    "Nat": "376-mega",
+    "Name": "Metagross mega"
+  },
+  {
+    "Nat": 375,
+    "Name": "Metang"
+  },
+  {
+    "Nat": 11,
+    "Name": "Metapod"
+  },
+  {
+    "Nat": 151,
+    "Name": "Mew"
+  },
+  {
+    "Nat": 150,
+    "Name": "Mewtwo"
+  },
+  {
+    "Nat": "150-mega-x",
+    "Name": "Mewtwo mega X"
+  },
+  {
+    "Nat": "150-mega-y",
+    "Name": "Mewtwo mega Y"
+  },
+  {
+    "Nat": 619,
+    "Name": "Mienfoo"
+  },
+  {
+    "Nat": 620,
+    "Name": "Mienshao"
+  },
+  {
+    "Nat": 262,
+    "Name": "Mightyena"
+  },
+  {
+    "Nat": 350,
+    "Name": "Milotic"
+  },
+  {
+    "Nat": 241,
+    "Name": "Miltank"
+  },
+  {
+    "Nat": 439,
+    "Name": "Mime Jr."
+  },
+  {
+    "Nat": 778,
+    "Name": "Mimikyu"
+  },
+  {
+    "Nat": 572,
+    "Name": "Minccino"
+  },
+  {
+    "Nat": 774,
+    "Name": "Minior"
+  },
+  {
+    "Nat": "774-blue",
+    "Name": "Minior blue"
+  },
+  {
+    "Nat": "774-green",
+    "Name": "Minior green"
+  },
+  {
+    "Nat": "774-indigo",
+    "Name": "Minior indigo"
+  },
+  {
+    "Nat": "774-orange",
+    "Name": "Minior orange"
+  },
+  {
+    "Nat": "774-red",
+    "Name": "Minior red"
+  },
+  {
+    "Nat": "774-violet",
+    "Name": "Minior violet"
+  },
+  {
+    "Nat": "774-yellow",
+    "Name": "Minior yellow"
+  },
+  {
+    "Nat": 312,
+    "Name": "Minun"
+  },
+  {
+    "Nat": 200,
+    "Name": "Misdreavus"
+  },
+  {
+    "Nat": 429,
+    "Name": "Mismagius"
+  },
+  {
+    "Nat": 146,
+    "Name": "Moltres"
+  },
+  {
+    "Nat": 391,
+    "Name": "Monferno"
+  },
+  {
+    "Nat": 755,
+    "Name": "Morelull"
+  },
+  {
+    "Nat": 414,
+    "Name": "Mothim"
+  },
+  {
+    "Nat": 122,
+    "Name": "Mr. Mime"
+  },
+  {
+    "Nat": 749,
+    "Name": "Mudbray"
+  },
+  {
+    "Nat": 258,
+    "Name": "Mudkip"
+  },
+  {
+    "Nat": 750,
+    "Name": "Mudsdale"
+  },
+  {
+    "Nat": 89,
+    "Name": "Muk"
+  },
+  {
+    "Nat": "89-alola",
+    "Name": "Muk Alola"
+  },
+  {
+    "Nat": 446,
+    "Name": "Munchlax"
+  },
+  {
+    "Nat": 517,
+    "Name": "Munna"
+  },
+  {
+    "Nat": 198,
+    "Name": "Murkrow"
+  },
+  {
+    "Nat": 518,
+    "Name": "Musharna"
+  },
+  {
+    "Nat": 804,
+    "Name": "Naganadel"
+  },
+  {
+    "Nat": 177,
+    "Name": "Natu"
+  },
+  {
+    "Nat": 800,
+    "Name": "Necrozma"
+  },
+  {
+    "Nat": "800-dawn",
+    "Name": "Necrozma dawn"
+  },
+  {
+    "Nat": "800-dusk",
+    "Name": "Necrozma dusk"
+  },
+  {
+    "Nat": 34,
+    "Name": "Nidoking"
+  },
+  {
+    "Nat": 31,
+    "Name": "Nidoqueen"
+  },
+  {
+    "Nat": 29,
+    "Name": "Nidoran F"
+  },
+  {
+    "Nat": 32,
+    "Name": "Nidoran M"
+  },
+  {
+    "Nat": 30,
+    "Name": "Nidorina"
+  },
+  {
+    "Nat": 33,
+    "Name": "Nidorino"
+  },
+  {
+    "Nat": 793,
+    "Name": "Nihilego"
+  },
+  {
+    "Nat": 290,
+    "Name": "Nincada"
+  },
+  {
+    "Nat": 38,
+    "Name": "Ninetales"
+  },
+  {
+    "Nat": "38-alola",
+    "Name": "Ninetales Alola"
+  },
+  {
+    "Nat": 291,
+    "Name": "Ninjask"
+  },
+  {
+    "Nat": 164,
+    "Name": "Noctowl"
+  },
+  {
+    "Nat": 714,
+    "Name": "Noibat"
+  },
+  {
+    "Nat": 715,
+    "Name": "Noivern"
+  },
+  {
+    "Nat": 299,
+    "Name": "Nosepass"
+  },
+  {
+    "Nat": 322,
+    "Name": "Numel"
+  },
+  {
+    "Nat": 274,
+    "Name": "Nuzleaf"
+  },
+  {
+    "Nat": 224,
+    "Name": "Octillery"
+  },
+  {
+    "Nat": 43,
+    "Name": "Oddish"
+  },
+  {
+    "Nat": 138,
+    "Name": "Omanyte"
+  },
+  {
+    "Nat": 139,
+    "Name": "Omastar"
+  },
+  {
+    "Nat": 95,
+    "Name": "Onix"
+  },
+  {
+    "Nat": 765,
+    "Name": "Oranguru"
+  },
+  {
+    "Nat": 741,
+    "Name": "Oricorio"
+  },
+  {
+    "Nat": "741-balie",
+    "Name": "Oricorio baile"
+  },
+  {
+    "Nat": "741-pau",
+    "Name": "Oricorio pau"
+  },
+  {
+    "Nat": "741-pom-pom",
+    "Name": "Oricorio pom-pom"
+  },
+  {
+    "Nat": "741-sensu",
+    "Name": "Oricorio sensu"
+  },
+  {
+    "Nat": 501,
+    "Name": "Oshawott"
+  },
+  {
+    "Nat": 417,
+    "Name": "Pachirisu"
+  },
+  {
+    "Nat": 484,
+    "Name": "Palkia"
+  },
+  {
+    "Nat": 770,
+    "Name": "Palossand"
+  },
+  {
+    "Nat": 536,
+    "Name": "Palpitoad"
+  },
+  {
+    "Nat": 674,
+    "Name": "Pancham"
+  },
+  {
+    "Nat": 675,
+    "Name": "Pangoro"
+  },
+  {
+    "Nat": 515,
+    "Name": "Panpour"
+  },
+  {
+    "Nat": 511,
+    "Name": "Pansage"
+  },
+  {
+    "Nat": 513,
+    "Name": "Pansear"
+  },
+  {
+    "Nat": 46,
+    "Name": "Paras"
+  },
+  {
+    "Nat": 47,
+    "Name": "Parasect"
+  },
+  {
+    "Nat": 766,
+    "Name": "Passimian"
+  },
+  {
+    "Nat": 504,
+    "Name": "Patrat"
+  },
+  {
+    "Nat": 624,
+    "Name": "Pawniard"
+  },
+  {
+    "Nat": 279,
+    "Name": "Pelipper"
+  },
+  {
+    "Nat": 53,
+    "Name": "Persian"
+  },
+  {
+    "Nat": "53-alola",
+    "Name": "Persian Alola"
+  },
+  {
+    "Nat": 548,
+    "Name": "Petilil"
+  },
+  {
+    "Nat": 231,
+    "Name": "Phanpy"
+  },
+  {
+    "Nat": 708,
+    "Name": "Phantump"
+  },
+  {
+    "Nat": 795,
+    "Name": "Pheromosa"
+  },
+  {
+    "Nat": 489,
+    "Name": "Phione"
+  },
+  {
+    "Nat": 172,
+    "Name": "Pichu"
+  },
+  {
+    "Nat": 18,
+    "Name": "Pidgeot"
+  },
+  {
+    "Nat": "18-mega",
+    "Name": "Pidgeot mega"
+  },
+  {
+    "Nat": 17,
+    "Name": "Pidgeotto"
+  },
+  {
+    "Nat": 16,
+    "Name": "Pidgey"
+  },
+  {
+    "Nat": 519,
+    "Name": "Pidove"
+  },
+  {
+    "Nat": 499,
+    "Name": "Pignite"
+  },
+  {
+    "Nat": 25,
+    "Name": "Pikachu"
+  },
+  {
+    "Nat": 731,
+    "Name": "Pikipek"
+  },
+  {
+    "Nat": 221,
+    "Name": "Piloswine"
+  },
+  {
+    "Nat": 204,
+    "Name": "Pineco"
+  },
+  {
+    "Nat": 127,
+    "Name": "Pinsir"
+  },
+  {
+    "Nat": "127-mega",
+    "Name": "Pinsir mega"
+  },
+  {
+    "Nat": 393,
+    "Name": "Piplup"
+  },
+  {
+    "Nat": 311,
+    "Name": "Plusle"
+  },
+  {
+    "Nat": 803,
+    "Name": "Poipole"
+  },
+  {
+    "Nat": 186,
+    "Name": "Politoed"
+  },
+  {
+    "Nat": 60,
+    "Name": "Poliwag"
+  },
+  {
+    "Nat": 61,
+    "Name": "Poliwhirl"
+  },
+  {
+    "Nat": 62,
+    "Name": "Poliwrath"
+  },
+  {
+    "Nat": 77,
+    "Name": "Ponyta"
+  },
+  {
+    "Nat": 261,
+    "Name": "Poochyena"
+  },
+  {
+    "Nat": 728,
+    "Name": "Popplio"
+  },
+  {
+    "Nat": 137,
+    "Name": "Porygon"
+  },
+  {
+    "Nat": 474,
+    "Name": "Porygon-Z"
+  },
+  {
+    "Nat": 233,
+    "Name": "Porygon2"
+  },
+  {
+    "Nat": 730,
+    "Name": "Primarina"
+  },
+  {
+    "Nat": 57,
+    "Name": "Primeape"
+  },
+  {
+    "Nat": 394,
+    "Name": "Prinplup"
+  },
+  {
+    "Nat": 476,
+    "Name": "Probopass"
+  },
+  {
+    "Nat": 54,
+    "Name": "Psyduck"
+  },
+  {
+    "Nat": 710,
+    "Name": "Pumpkaboo"
+  },
+  {
+    "Nat": 247,
+    "Name": "Pupitar"
+  },
+  {
+    "Nat": 509,
+    "Name": "Purrloin"
+  },
+  {
+    "Nat": 432,
+    "Name": "Purugly"
+  },
+  {
+    "Nat": 668,
+    "Name": "Pyroar"
+  },
+  {
+    "Nat": 771,
+    "Name": "Pyukumuku"
+  },
+  {
+    "Nat": 195,
+    "Name": "Quagsire"
+  },
+  {
+    "Nat": 156,
+    "Name": "Quilava"
+  },
+  {
+    "Nat": 651,
+    "Name": "Quilladin"
+  },
+  {
+    "Nat": 211,
+    "Name": "Qwilfish"
+  },
+  {
+    "Nat": 26,
+    "Name": "Raichu"
+  },
+  {
+    "Nat": "26-alola",
+    "Name": "Raichu Alola"
+  },
+  {
+    "Nat": 243,
+    "Name": "Raikou"
+  },
+  {
+    "Nat": 280,
+    "Name": "Ralts"
+  },
+  {
+    "Nat": 409,
+    "Name": "Rampardos"
+  },
+  {
+    "Nat": 78,
+    "Name": "Rapidash"
+  },
+  {
+    "Nat": 20,
+    "Name": "Raticate"
+  },
+  {
+    "Nat": "20-alola",
+    "Name": "Raticate Alola"
+  },
+  {
+    "Nat": 19,
+    "Name": "Rattata"
+  },
+  {
+    "Nat": "19-alola",
+    "Name": "Rattata Alola"
+  },
+  {
+    "Nat": 384,
+    "Name": "Rayquaza"
+  },
+  {
+    "Nat": "384-mega",
+    "Name": "Rayquaza mega"
+  },
+  {
+    "Nat": 378,
+    "Name": "Regice"
+  },
+  {
+    "Nat": 486,
+    "Name": "Regigigas"
+  },
+  {
+    "Nat": 377,
+    "Name": "Regirock"
+  },
+  {
+    "Nat": 379,
+    "Name": "Registeel"
+  },
+  {
+    "Nat": 369,
+    "Name": "Relicanth"
+  },
+  {
+    "Nat": 223,
+    "Name": "Remoraid"
+  },
+  {
+    "Nat": 643,
+    "Name": "Reshiram"
+  },
+  {
+    "Nat": 579,
+    "Name": "Reuniclus"
+  },
+  {
+    "Nat": 112,
+    "Name": "Rhydon"
+  },
+  {
+    "Nat": 111,
+    "Name": "Rhyhorn"
+  },
+  {
+    "Nat": 464,
+    "Name": "Rhyperior"
+  },
+  {
+    "Nat": 743,
+    "Name": "Ribombee"
+  },
+  {
+    "Nat": 447,
+    "Name": "Riolu"
+  },
+  {
+    "Nat": 744,
+    "Name": "Rockruff"
+  },
+  {
+    "Nat": 524,
+    "Name": "Roggenrola"
+  },
+  {
+    "Nat": 315,
+    "Name": "Roselia"
+  },
+  {
+    "Nat": 407,
+    "Name": "Roserade"
+  },
+  {
+    "Nat": 479,
+    "Name": "Rotom"
+  },
+  {
+    "Nat": "479-fan",
+    "Name": "Rotom fan"
+  },
+  {
+    "Nat": "479-frost",
+    "Name": "Rotom frost"
+  },
+  {
+    "Nat": "479-heat",
+    "Name": "Rotom heat"
+  },
+  {
+    "Nat": "479-mow",
+    "Name": "Rotom mow"
+  },
+  {
+    "Nat": "479-wash",
+    "Name": "Rotom wash"
+  },
+  {
+    "Nat": 722,
+    "Name": "Rowlet"
+  },
+  {
+    "Nat": 627,
+    "Name": "Rufflet"
+  },
+  {
+    "Nat": 302,
+    "Name": "Sableye"
+  },
+  {
+    "Nat": "302-mega",
+    "Name": "Sableye mega"
+  },
+  {
+    "Nat": 373,
+    "Name": "Salamence"
+  },
+  {
+    "Nat": "373-mega",
+    "Name": "Salamence mega"
+  },
+  {
+    "Nat": 757,
+    "Name": "Salandit"
+  },
+  {
+    "Nat": 758,
+    "Name": "Salazzle"
+  },
+  {
+    "Nat": 503,
+    "Name": "Samurott"
+  },
+  {
+    "Nat": 551,
+    "Name": "Sandile"
+  },
+  {
+    "Nat": 27,
+    "Name": "Sandshrew"
+  },
+  {
+    "Nat": "27-alola",
+    "Name": "Sandshrew Alola"
+  },
+  {
+    "Nat": 28,
+    "Name": "Sandslash"
+  },
+  {
+    "Nat": "28-alola",
+    "Name": "Sandslash Alola"
+  },
+  {
+    "Nat": 769,
+    "Name": "Sandygast"
+  },
+  {
+    "Nat": 539,
+    "Name": "Sawk"
+  },
+  {
+    "Nat": 586,
+    "Name": "Sawsbuck"
+  },
+  {
+    "Nat": "586-autumn",
+    "Name": "Sawsbuck Autumn"
+  },
+  {
+    "Nat": "586-spring",
+    "Name": "Sawsbuck Spring"
+  },
+  {
+    "Nat": "586-summer",
+    "Name": "Sawsbuck Summer"
+  },
+  {
+    "Nat": "586-winter",
+    "Name": "Sawsbuck Winter"
+  },
+  {
+    "Nat": 664,
+    "Name": "Scatterbug"
+  },
+  {
+    "Nat": 254,
+    "Name": "Sceptile"
+  },
+  {
+    "Nat": "254-mega",
+    "Name": "Sceptile mega"
+  },
+  {
+    "Nat": 212,
+    "Name": "Scizor"
+  },
+  {
+    "Nat": "212-mega",
+    "Name": "Scizor mega"
+  },
+  {
+    "Nat": 545,
+    "Name": "Scolipede"
+  },
+  {
+    "Nat": 560,
+    "Name": "Scrafty"
+  },
+  {
+    "Nat": 559,
+    "Name": "Scraggy"
+  },
+  {
+    "Nat": 123,
+    "Name": "Scyther"
+  },
+  {
+    "Nat": 117,
+    "Name": "Seadra"
+  },
+  {
+    "Nat": 119,
+    "Name": "Seaking"
+  },
+  {
+    "Nat": 364,
+    "Name": "Sealeo"
+  },
+  {
+    "Nat": 273,
+    "Name": "Seedot"
+  },
+  {
+    "Nat": 86,
+    "Name": "Seel"
+  },
+  {
+    "Nat": 537,
+    "Name": "Seismitoad"
+  },
+  {
+    "Nat": 161,
+    "Name": "Sentret"
+  },
+  {
+    "Nat": 497,
+    "Name": "Serperior"
+  },
+  {
+    "Nat": 496,
+    "Name": "Servine"
+  },
+  {
+    "Nat": 336,
+    "Name": "Seviper"
+  },
+  {
+    "Nat": 540,
+    "Name": "Sewaddle"
+  },
+  {
+    "Nat": 319,
+    "Name": "Sharpedo"
+  },
+  {
+    "Nat": "319-mega",
+    "Name": "Sharpedo mega"
+  },
+  {
+    "Nat": 492,
+    "Name": "Shaymin"
+  },
+  {
+    "Nat": "492-sky",
+    "Name": "Shaymin sky"
+  },
+  {
+    "Nat": 292,
+    "Name": "Shedinja"
+  },
+  {
+    "Nat": 372,
+    "Name": "Shelgon"
+  },
+  {
+    "Nat": 90,
+    "Name": "Shellder"
+  },
+  {
+    "Nat": 422,
+    "Name": "Shellos"
+  },
+  {
+    "Nat": "422-east",
+    "Name": "Shellos E"
+  },
+  {
+    "Nat": "422-west",
+    "Name": "Shellos W"
+  },
+  {
+    "Nat": 616,
+    "Name": "Shelmet"
+  },
+  {
+    "Nat": 410,
+    "Name": "Shieldon"
+  },
+  {
+    "Nat": 275,
+    "Name": "Shiftry"
+  },
+  {
+    "Nat": 756,
+    "Name": "Shiinotic"
+  },
+  {
+    "Nat": 403,
+    "Name": "Shinx"
+  },
+  {
+    "Nat": 285,
+    "Name": "Shroomish"
+  },
+  {
+    "Nat": 213,
+    "Name": "Shuckle"
+  },
+  {
+    "Nat": 353,
+    "Name": "Shuppet"
+  },
+  {
+    "Nat": 561,
+    "Name": "Sigilyph"
+  },
+  {
+    "Nat": 266,
+    "Name": "Silcoon"
+  },
+  {
+    "Nat": 773,
+    "Name": "Silvally"
+  },
+  {
+    "Nat": "773-bug",
+    "Name": "Silvally bug"
+  },
+  {
+    "Nat": "773-dark",
+    "Name": "Silvally dark"
+  },
+  {
+    "Nat": "773-dragon",
+    "Name": "Silvally dragon"
+  },
+  {
+    "Nat": "773-fairy",
+    "Name": "Silvally fairy"
+  },
+  {
+    "Nat": "773-fighting",
+    "Name": "Silvally fighting"
+  },
+  {
+    "Nat": "773-fire",
+    "Name": "Silvally fire"
+  },
+  {
+    "Nat": "773-flying",
+    "Name": "Silvally flying"
+  },
+  {
+    "Nat": "773-ghost",
+    "Name": "Silvally ghost"
+  },
+  {
+    "Nat": "773-grass",
+    "Name": "Silvally grass"
+  },
+  {
+    "Nat": "773-ground",
+    "Name": "Silvally ground"
+  },
+  {
+    "Nat": "773-ice",
+    "Name": "Silvally ice"
+  },
+  {
+    "Nat": "773-normal",
+    "Name": "Silvally normal"
+  },
+  {
+    "Nat": "773-poison",
+    "Name": "Silvally poison"
+  },
+  {
+    "Nat": "773-psychic",
+    "Name": "Silvally psychic"
+  },
+  {
+    "Nat": "773-rock",
+    "Name": "Silvally rock"
+  },
+  {
+    "Nat": "773-steel",
+    "Name": "Silvally steel"
+  },
+  {
+    "Nat": "773-water",
+    "Name": "Silvally water"
+  },
+  {
+    "Nat": 516,
+    "Name": "Simipour"
+  },
+  {
+    "Nat": 512,
+    "Name": "Simisage"
+  },
+  {
+    "Nat": 514,
+    "Name": "Simisear"
+  },
+  {
+    "Nat": 227,
+    "Name": "Skarmory"
+  },
+  {
+    "Nat": 672,
+    "Name": "Skiddo"
+  },
+  {
+    "Nat": 188,
+    "Name": "Skiploom"
+  },
+  {
+    "Nat": 300,
+    "Name": "Skitty"
+  },
+  {
+    "Nat": 451,
+    "Name": "Skorupi"
+  },
+  {
+    "Nat": 690,
+    "Name": "Skrelp"
+  },
+  {
+    "Nat": 435,
+    "Name": "Skuntank"
+  },
+  {
+    "Nat": 289,
+    "Name": "Slaking"
+  },
+  {
+    "Nat": 287,
+    "Name": "Slakoth"
+  },
+  {
+    "Nat": 705,
+    "Name": "Sliggoo"
+  },
+  {
+    "Nat": 80,
+    "Name": "Slowbro"
+  },
+  {
+    "Nat": 199,
+    "Name": "Slowking"
+  },
+  {
+    "Nat": 79,
+    "Name": "Slowpoke"
+  },
+  {
+    "Nat": 218,
+    "Name": "Slugma"
+  },
+  {
+    "Nat": 685,
+    "Name": "Slurpuff"
+  },
+  {
+    "Nat": 235,
+    "Name": "Smeargle"
+  },
+  {
+    "Nat": 238,
+    "Name": "Smoochum"
+  },
+  {
+    "Nat": 215,
+    "Name": "Sneasel"
+  },
+  {
+    "Nat": 495,
+    "Name": "Snivy"
+  },
+  {
+    "Nat": 143,
+    "Name": "Snorlax"
+  },
+  {
+    "Nat": 361,
+    "Name": "Snorunt"
+  },
+  {
+    "Nat": 459,
+    "Name": "Snover"
+  },
+  {
+    "Nat": 209,
+    "Name": "Snubbull"
+  },
+  {
+    "Nat": 791,
+    "Name": "Solgaleo"
+  },
+  {
+    "Nat": 577,
+    "Name": "Solosis"
+  },
+  {
+    "Nat": 338,
+    "Name": "Solrock"
+  },
+  {
+    "Nat": 21,
+    "Name": "Spearow"
+  },
+  {
+    "Nat": 665,
+    "Name": "Spewpa"
+  },
+  {
+    "Nat": 363,
+    "Name": "Spheal"
+  },
+  {
+    "Nat": 167,
+    "Name": "Spinarak"
+  },
+  {
+    "Nat": 327,
+    "Name": "Spinda"
+  },
+  {
+    "Nat": 442,
+    "Name": "Spiritomb"
+  },
+  {
+    "Nat": 325,
+    "Name": "Spoink"
+  },
+  {
+    "Nat": 682,
+    "Name": "Spritzee"
+  },
+  {
+    "Nat": 7,
+    "Name": "Squirtle"
+  },
+  {
+    "Nat": 805,
+    "Name": "Stakataka"
+  },
+  {
+    "Nat": 234,
+    "Name": "Stantler"
+  },
+  {
+    "Nat": 398,
+    "Name": "Staraptor"
+  },
+  {
+    "Nat": 397,
+    "Name": "Staravia"
+  },
+  {
+    "Nat": 396,
+    "Name": "Starly"
+  },
+  {
+    "Nat": 121,
+    "Name": "Starmie"
+  },
+  {
+    "Nat": 120,
+    "Name": "Staryu"
+  },
+  {
+    "Nat": 208,
+    "Name": "Steelix"
+  },
+  {
+    "Nat": "208-mega",
+    "Name": "Steelix mega"
+  },
+  {
+    "Nat": 762,
+    "Name": "Steenee"
+  },
+  {
+    "Nat": 508,
+    "Name": "Stoutland"
+  },
+  {
+    "Nat": 759,
+    "Name": "Stufful"
+  },
+  {
+    "Nat": 618,
+    "Name": "Stunfisk"
+  },
+  {
+    "Nat": 434,
+    "Name": "Stunky"
+  },
+  {
+    "Nat": 185,
+    "Name": "Sudowoodo"
+  },
+  {
+    "Nat": 245,
+    "Name": "Suicune"
+  },
+  {
+    "Nat": 192,
+    "Name": "Sunflora"
+  },
+  {
+    "Nat": 191,
+    "Name": "Sunkern"
+  },
+  {
+    "Nat": 283,
+    "Name": "Surskit"
+  },
+  {
+    "Nat": 333,
+    "Name": "Swablu"
+  },
+  {
+    "Nat": 541,
+    "Name": "Swadloon"
+  },
+  {
+    "Nat": 317,
+    "Name": "Swalot"
+  },
+  {
+    "Nat": 260,
+    "Name": "Swampert"
+  },
+  {
+    "Nat": "260-mega",
+    "Name": "Swampert mega"
+  },
+  {
+    "Nat": 581,
+    "Name": "Swanna"
+  },
+  {
+    "Nat": 277,
+    "Name": "Swellow"
+  },
+  {
+    "Nat": 220,
+    "Name": "Swinub"
+  },
+  {
+    "Nat": 684,
+    "Name": "Swirlix"
+  },
+  {
+    "Nat": 528,
+    "Name": "Swoobat"
+  },
+  {
+    "Nat": 700,
+    "Name": "Sylveon"
+  },
+  {
+    "Nat": 276,
+    "Name": "Taillow"
+  },
+  {
+    "Nat": 663,
+    "Name": "Talonflame"
+  },
+  {
+    "Nat": 114,
+    "Name": "Tangela"
+  },
+  {
+    "Nat": 465,
+    "Name": "Tangrowth"
+  },
+  {
+    "Nat": 787,
+    "Name": "Tapu Bulu"
+  },
+  {
+    "Nat": 788,
+    "Name": "Tapu Fini"
+  },
+  {
+    "Nat": 785,
+    "Name": "Tapu Koko"
+  },
+  {
+    "Nat": 786,
+    "Name": "Tapu Lele"
+  },
+  {
+    "Nat": 128,
+    "Name": "Tauros"
+  },
+  {
+    "Nat": 216,
+    "Name": "Teddiursa"
+  },
+  {
+    "Nat": 72,
+    "Name": "Tentacool"
+  },
+  {
+    "Nat": 73,
+    "Name": "Tentacruel"
+  },
+  {
+    "Nat": 498,
+    "Name": "Tepig"
+  },
+  {
+    "Nat": 639,
+    "Name": "Terrakion"
+  },
+  {
+    "Nat": 538,
+    "Name": "Throh"
+  },
+  {
+    "Nat": 642,
+    "Name": "Thundurus"
+  },
+  {
+    "Nat": "642-therian",
+    "Name": "Thundurus T"
+  },
+  {
+    "Nat": 532,
+    "Name": "Timburr"
+  },
+  {
+    "Nat": 564,
+    "Name": "Tirtouga"
+  },
+  {
+    "Nat": 777,
+    "Name": "Togedemaru"
+  },
+  {
+    "Nat": 468,
+    "Name": "Togekiss"
+  },
+  {
+    "Nat": 175,
+    "Name": "Togepi"
+  },
+  {
+    "Nat": 176,
+    "Name": "Togetic"
+  },
+  {
+    "Nat": 255,
+    "Name": "Torchic"
+  },
+  {
+    "Nat": 324,
+    "Name": "Torkoal"
+  },
+  {
+    "Nat": 641,
+    "Name": "Tornadus"
+  },
+  {
+    "Nat": "641-therian",
+    "Name": "Tornadus T"
+  },
+  {
+    "Nat": 726,
+    "Name": "Torracat"
+  },
+  {
+    "Nat": 389,
+    "Name": "Torterra"
+  },
+  {
+    "Nat": 158,
+    "Name": "Totodile"
+  },
+  {
+    "Nat": 733,
+    "Name": "Toucannon"
+  },
+  {
+    "Nat": 748,
+    "Name": "Toxapec"
+  },
+  {
+    "Nat": 454,
+    "Name": "Toxicroak"
+  },
+  {
+    "Nat": 520,
+    "Name": "Tranquill"
+  },
+  {
+    "Nat": 328,
+    "Name": "Trapinch"
+  },
+  {
+    "Nat": 252,
+    "Name": "Treecko"
+  },
+  {
+    "Nat": 709,
+    "Name": "Trevenant"
+  },
+  {
+    "Nat": 357,
+    "Name": "Tropius"
+  },
+  {
+    "Nat": 568,
+    "Name": "Trubbish"
+  },
+  {
+    "Nat": 732,
+    "Name": "Trumbeak"
+  },
+  {
+    "Nat": 763,
+    "Name": "Tsareena"
+  },
+  {
+    "Nat": 776,
+    "Name": "Turtonator"
+  },
+  {
+    "Nat": 387,
+    "Name": "Turtwig"
+  },
+  {
+    "Nat": 535,
+    "Name": "Tympole"
+  },
+  {
+    "Nat": 602,
+    "Name": "Tynamo"
+  },
+  {
+    "Nat": 772,
+    "Name": "Type: Null"
+  },
+  {
+    "Nat": 157,
+    "Name": "Typhlosion"
+  },
+  {
+    "Nat": 248,
+    "Name": "Tyranitar"
+  },
+  {
+    "Nat": "248-mega",
+    "Name": "Tyranitar mega"
+  },
+  {
+    "Nat": 697,
+    "Name": "Tyrantrum"
+  },
+  {
+    "Nat": 236,
+    "Name": "Tyrogue"
+  },
+  {
+    "Nat": 696,
+    "Name": "Tyrunt"
+  },
+  {
+    "Nat": 197,
+    "Name": "Umbreon"
+  },
+  {
+    "Nat": 521,
+    "Name": "Unfezant"
+  },
+  {
+    "Nat": "521-f",
+    "Name": "Unfezant F"
+  },
+  {
+    "Nat": 201,
+    "Name": "Unown"
+  },
+  {
+    "Nat": "201-exclamation",
+    "Name": "Unown !"
+  },
+  {
+    "Nat": "201-question",
+    "Name": "Unown ?"
+  },
+  {
+    "Nat": "201-a",
+    "Name": "Unown A"
+  },
+  {
+    "Nat": "201-b",
+    "Name": "Unown B"
+  },
+  {
+    "Nat": "201-c",
+    "Name": "Unown C"
+  },
+  {
+    "Nat": "201-d",
+    "Name": "Unown D"
+  },
+  {
+    "Nat": "201-e",
+    "Name": "Unown E"
+  },
+  {
+    "Nat": "201-f",
+    "Name": "Unown F"
+  },
+  {
+    "Nat": "201-g",
+    "Name": "Unown G"
+  },
+  {
+    "Nat": "201-h",
+    "Name": "Unown H"
+  },
+  {
+    "Nat": "201-i",
+    "Name": "Unown I"
+  },
+  {
+    "Nat": "201-j",
+    "Name": "Unown J"
+  },
+  {
+    "Nat": "201-k",
+    "Name": "Unown K"
+  },
+  {
+    "Nat": "201-l",
+    "Name": "Unown L"
+  },
+  {
+    "Nat": "201-m",
+    "Name": "Unown M"
+  },
+  {
+    "Nat": "201-n",
+    "Name": "Unown N"
+  },
+  {
+    "Nat": "201-o",
+    "Name": "Unown O"
+  },
+  {
+    "Nat": "201-p",
+    "Name": "Unown P"
+  },
+  {
+    "Nat": "201-q",
+    "Name": "Unown Q"
+  },
+  {
+    "Nat": "201-r",
+    "Name": "Unown R"
+  },
+  {
+    "Nat": "201-s",
+    "Name": "Unown S"
+  },
+  {
+    "Nat": "201-t",
+    "Name": "Unown T"
+  },
+  {
+    "Nat": "201-u",
+    "Name": "Unown U"
+  },
+  {
+    "Nat": "201-v",
+    "Name": "Unown V"
+  },
+  {
+    "Nat": "201-w",
+    "Name": "Unown W"
+  },
+  {
+    "Nat": "201-x",
+    "Name": "Unown X"
+  },
+  {
+    "Nat": "201-y",
+    "Name": "Unown Y"
+  },
+  {
+    "Nat": "201-z",
+    "Name": "Unown Z"
+  },
+  {
+    "Nat": 217,
+    "Name": "Ursaring"
+  },
+  {
+    "Nat": 480,
+    "Name": "Uxie"
+  },
+  {
+    "Nat": 583,
+    "Name": "Vanillish"
+  },
+  {
+    "Nat": 582,
+    "Name": "Vanillite"
+  },
+  {
+    "Nat": 584,
+    "Name": "Vanilluxe"
+  },
+  {
+    "Nat": 134,
+    "Name": "Vaporeon"
+  },
+  {
+    "Nat": 543,
+    "Name": "Venipede"
+  },
+  {
+    "Nat": 49,
+    "Name": "Venomoth"
+  },
+  {
+    "Nat": 48,
+    "Name": "Venonat"
+  },
+  {
+    "Nat": 3,
+    "Name": "Venusaur"
+  },
+  {
+    "Nat": "3-mega",
+    "Name": "Venusaur mega"
+  },
+  {
+    "Nat": 416,
+    "Name": "Vespiquen"
+  },
+  {
+    "Nat": 329,
+    "Name": "Vibrava"
+  },
+  {
+    "Nat": 494,
+    "Name": "Victini"
+  },
+  {
+    "Nat": 71,
+    "Name": "Victreebel"
+  },
+  {
+    "Nat": 288,
+    "Name": "Vigoroth"
+  },
+  {
+    "Nat": 738,
+    "Name": "Vikavolt"
+  },
+  {
+    "Nat": 45,
+    "Name": "Vileplume"
+  },
+  {
+    "Nat": 640,
+    "Name": "Virizion"
+  },
+  {
+    "Nat": 666,
+    "Name": "Vivillon"
+  },
+  {
+    "Nat": 313,
+    "Name": "Volbeat"
+  },
+  {
+    "Nat": 721,
+    "Name": "Volcanion"
+  },
+  {
+    "Nat": 637,
+    "Name": "Volcarona"
+  },
+  {
+    "Nat": 100,
+    "Name": "Voltorb"
+  },
+  {
+    "Nat": 629,
+    "Name": "Vullaby"
+  },
+  {
+    "Nat": 37,
+    "Name": "Vulpix"
+  },
+  {
+    "Nat": "37-alola",
+    "Name": "Vulpix Alola"
+  },
+  {
+    "Nat": 320,
+    "Name": "Wailmer"
+  },
+  {
+    "Nat": 321,
+    "Name": "Wailord"
+  },
+  {
+    "Nat": 365,
+    "Name": "Walrein"
+  },
+  {
+    "Nat": 8,
+    "Name": "Wartortle"
+  },
+  {
+    "Nat": 505,
+    "Name": "Watchog"
+  },
+  {
+    "Nat": 461,
+    "Name": "Weavile"
+  },
+  {
+    "Nat": 13,
+    "Name": "Weedle"
+  },
+  {
+    "Nat": 70,
+    "Name": "Weepinbell"
+  },
+  {
+    "Nat": 110,
+    "Name": "Weezing"
+  },
+  {
+    "Nat": 547,
+    "Name": "Whimsicott"
+  },
+  {
+    "Nat": 544,
+    "Name": "Whirlipede"
+  },
+  {
+    "Nat": 340,
+    "Name": "Whiscash"
+  },
+  {
+    "Nat": 293,
+    "Name": "Whismur"
+  },
+  {
+    "Nat": 40,
+    "Name": "Wigglytuff"
+  },
+  {
+    "Nat": 767,
+    "Name": "Wimpod"
+  },
+  {
+    "Nat": 278,
+    "Name": "Wingull"
+  },
+  {
+    "Nat": 746,
+    "Name": "Wishiwashi"
+  },
+  {
+    "Nat": 202,
+    "Name": "Wobbuffet"
+  },
+  {
+    "Nat": 527,
+    "Name": "Woobat"
+  },
+  {
+    "Nat": 194,
+    "Name": "Wooper"
+  },
+  {
+    "Nat": 413,
+    "Name": "Wormadam"
+  },
+  {
+    "Nat": "413-plant",
+    "Name": "Wormadam plant"
+  },
+  {
+    "Nat": "413-sandy",
+    "Name": "Wormadam sandy"
+  },
+  {
+    "Nat": "413-trash",
+    "Name": "Wormadam trash"
+  },
+  {
+    "Nat": 265,
+    "Name": "Wurmple"
+  },
+  {
+    "Nat": 360,
+    "Name": "Wynaut"
+  },
+  {
+    "Nat": 178,
+    "Name": "Xatu"
+  },
+  {
+    "Nat": 716,
+    "Name": "Xerneas"
+  },
+  {
+    "Nat": 796,
+    "Name": "Xurkitree"
+  },
+  {
+    "Nat": 562,
+    "Name": "Yamask"
+  },
+  {
+    "Nat": 193,
+    "Name": "Yanma"
+  },
+  {
+    "Nat": 469,
+    "Name": "Yanmega"
+  },
+  {
+    "Nat": 734,
+    "Name": "Yungoos"
+  },
+  {
+    "Nat": 717,
+    "Name": "Yveltal"
+  },
+  {
+    "Nat": 335,
+    "Name": "Zangoose"
+  },
+  {
+    "Nat": 145,
+    "Name": "Zapdos"
+  },
+  {
+    "Nat": 523,
+    "Name": "Zebstrika"
+  },
+  {
+    "Nat": 644,
+    "Name": "Zekrom"
+  },
+  {
+    "Nat": 807,
+    "Name": "Zeraora"
+  },
+  {
+    "Nat": 263,
+    "Name": "Zigzagoon"
+  },
+  {
+    "Nat": 571,
+    "Name": "Zoroark"
+  },
+  {
+    "Nat": 570,
+    "Name": "Zorua"
+  },
+  {
+    "Nat": 41,
+    "Name": "Zubat"
+  },
+  {
+    "Nat": 634,
+    "Name": "Zweilous"
+  },
+  {
+    "Nat": 718,
+    "Name": "Zygarde"
+  }
+]
