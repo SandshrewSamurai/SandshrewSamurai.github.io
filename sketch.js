@@ -8,12 +8,12 @@ function preload() {
 }
 
 function setup() {
-    //frameRate(1);
-	createCanvas(750, 450);
+	let canvas = createCanvas(750, 450);
+    canvas.parent('sketch-holder');
 }
 
 function draw() {
-    background(255, 0, 255);
+    //background(0, 255, 0);
     noLoop();
 }
 
@@ -40,7 +40,7 @@ function drawTeam(w, h) {
 	let y = pad / 2;
 	
 	clear();
-	background(255, 0, 255);
+	//background(0, 255, 0);
 	//Load and Draw Required Pokemon
 	for (let i = 0; i < 6; i++) {
 		if (team[i] !== "") {
