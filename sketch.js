@@ -9,10 +9,11 @@ function preload() {
 
 function setup() {
     //frameRate(1);
-	createCanvas(1600, 900);
+	createCanvas(750, 450);
 }
 
 function draw() {
+    background(255, 0, 255);
     noLoop();
 }
 
@@ -27,19 +28,19 @@ function updateTeam(){
             team.push(ID);
         }
     }
-    drawTeam(1600, 900);
+    drawTeam(750, 450);
 }
 
 //Handles All Visuals
 function drawTeam(w, h) {
 	//Calculate Spacing and Size of Images
-	let size = w / 7;
+	let size = w / 4;
 	let pad = 20;
 	let x = pad / 2;
 	let y = pad / 2;
 	
 	clear();
-	
+	background(255, 0, 255);
 	//Load and Draw Required Pokemon
 	for (let i = 0; i < 6; i++) {
 		if (team[i] !== "") {
