@@ -3,7 +3,9 @@
     <head>  
         <meta charset="UTF-8">
         <title>PKMN-TEAM-DISPLAY</title>
-      
+        
+        <link rel="stylesheet" href="style.css">
+        
         <!--- JQuery --->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
       
@@ -14,14 +16,15 @@
     </head>
       
   <body id="page-top">
-        
-      
-      <div id="sketch-holder">
-          <!-- Our sketch will go here! -->
+
+      <div class="split left">
+          <div id="sketch-holder">
+              <!-- Our sketch will go here! -->
+          </div>
       </div>
       
+      <div class="split right">
         <!-- PKMN TEAM Display UI -->    
-
                  <div class="col-sm-2"><p class="mb-0 text-white-50">Pokémon 1</p></div>
                  <div class="col-sm-3"><select id="pokemon-dropdown-0" name="pokemon-1"></select></div>
 
@@ -50,10 +53,14 @@
                 <div class="col-sm-2"><p class="mb-0 text-white-50">Pokémon 6</p></div>
                  <div class="col-sm-8"><select id="pokemon-dropdown-5" name="pokemon-6"></select></div>
 
-      <br>
+          <br>
 
                 <div class="col-sm-2"><input type="submit" class="btn btn-primary mx-auto" value="Submit" onclick="updateTeam()"></div>
-                
+        </div>
+
+      <br>
+      
+      
         <script>
             
             for(let i = 0; i < 6; i++){
