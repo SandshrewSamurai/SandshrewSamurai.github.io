@@ -1,4 +1,5 @@
 let team = [];
+let dropdownData = [];
 
 function load() {
 }
@@ -13,7 +14,6 @@ function setup() {
 }
 
 function draw() {
-    //background(0, 255, 0);
     noLoop();
 }
 
@@ -21,6 +21,7 @@ function updateTeam(){
     team = [];
     for (let i = 0; i < 6; i++) {
         let pkmn = document.getElementById("pokemon-dropdown-" + i);
+        dropdownData[i] = pkmn.options[pkmn.selectedIndex].value;
         let ID = pkmn.options[pkmn.selectedIndex].value;
         if (ID == "Choose Pokémon"){
             team.push("");
@@ -32,20 +33,17 @@ function updateTeam(){
 }
 
 function saveTeam(){
-    localStorage.setItem('team', JSON.stringify(team));
+    localStorage.setItem('dropdownData', JSON.stringify(dropdownData));
 }
 
 function loadTeam(){
-    team = JSON.parse(localStorage.getItem('team'));
+    dropdownData = JSON.parse(localStorage.getItem('dropdownData'));
     
-    //for (let i = 0; i < 6; i++) {
-    //    let element = document.getElementById("pokemon-dropdown-" + i);
-    //    if (team[i] == ""){
-    //        element.selectedIndex = "Choose Pokémon";
-    //    } else {
-    //        element.selectedIndex = team[i];
-    //    }
-    //}
+    for (let i = 0; i < 6; i++) {
+        let element = document.getElementById("pokemon-dropdown-" + i);
+        element.value = dropdownData[i];
+    }
+    
     drawTeam(750, 450);
 }
 
@@ -58,7 +56,6 @@ function drawTeam(w, h) {
 	let y = pad / 2;
 	
 	clear();
-	//background(0, 255, 0);
 	//Load and Draw Required Pokemon
 	for (let i = 0; i < 6; i++) {
 		if (team[i] !== "") {
