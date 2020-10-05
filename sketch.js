@@ -37,14 +37,14 @@ function saveTeam(){
 }
 
 function loadTeam(){
-    dropdownData = JSON.parse(localStorage.getItem('dropdownData'));
-    
-    for (let i = 0; i < 6; i++) {
-        let element = document.getElementById("pokemon-dropdown-" + i);
-        element.value = dropdownData[i];
+    if (localStorage.getItem("dropdownData")) {
+        dropdownData = JSON.parse(localStorage.getItem('dropdownData'));
+        for (let i = 0; i < 6; i++) {
+            let element = document.getElementById("pokemon-dropdown-" + i);
+            element.value = dropdownData[i];
+        }
+        drawTeam(750, 450);
     }
-    
-    drawTeam(750, 450);
 }
 
 //Handles All Visuals
