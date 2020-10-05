@@ -31,6 +31,24 @@ function updateTeam(){
     drawTeam(750, 450);
 }
 
+function saveTeam(){
+    localStorage.setItem('team', JSON.stringify(team));
+}
+
+function loadTeam(){
+    team = JSON.parse(localStorage.getItem('team'));
+    
+    //for (let i = 0; i < 6; i++) {
+    //    let element = document.getElementById("pokemon-dropdown-" + i);
+    //    if (team[i] == ""){
+    //        element.selectedIndex = "Choose Pokémon";
+    //    } else {
+    //        element.selectedIndex = team[i];
+    //    }
+    //}
+    drawTeam(750, 450);
+}
+
 //Handles All Visuals
 function drawTeam(w, h) {
 	//Calculate Spacing and Size of Images
