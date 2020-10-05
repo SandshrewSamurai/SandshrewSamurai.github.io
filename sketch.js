@@ -43,7 +43,7 @@ function loadTeam(){
             let element = document.getElementById("pokemon-dropdown-" + i);
             element.value = dropdownData[i];
         }
-        drawTeam(750, 450);
+        updateTeam();
     }
 }
 
