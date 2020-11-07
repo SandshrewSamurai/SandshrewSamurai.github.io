@@ -1,11 +1,15 @@
 [
   {
+    "Nat": 0,
+    "Name": "Blank"
+  },
+  {
     "Nat": 460,
     "Name": "Abomasnow"
   },
   {
     "Nat": "460-mega",
-    "Name": "Abomasnow mega"
+    "Name": "Abomasnow Mega"
   },
   {
     "Nat": 63,
@@ -17,7 +21,7 @@
   },
   {
     "Nat": "359-mega",
-    "Name": "Absol mega"
+    "Name": "Absol Mega"
   },
   {
     "Nat": 617,
@@ -33,7 +37,7 @@
   },
   {
     "Nat": "142-mega",
-    "Name": "Aerodactyl mega"
+    "Name": "Aerodactyl Mega"
   },
   {
     "Nat": 306,
@@ -41,7 +45,7 @@
   },
   {
     "Nat": "306-mega",
-    "Name": "Aggron mega"
+    "Name": "Aggron Mega"
   },
   {
     "Nat": 190,
@@ -53,7 +57,7 @@
   },
   {
     "Nat": "65-mega",
-    "Name": "Alakazam mega"
+    "Name": "Alakazam Mega"
   },
   {
     "Nat": 869,
@@ -69,7 +73,7 @@
   },
   {
     "Nat": "334-mega",
-    "Name": "Altaria mega"
+    "Name": "Altaria Mega"
   },
   {
     "Nat": 698,
@@ -89,7 +93,7 @@
   },
   {
     "Nat": "181-mega",
-    "Name": "Ampharos mega"
+    "Name": "Ampharos Mega"
   },
   {
     "Nat": 347,
@@ -121,71 +125,71 @@
   },
   {
     "Nat": "493-bug",
-    "Name": "Arceus bug"
+    "Name": "Arceus Bug"
   },
   {
     "Nat": "493-dark",
-    "Name": "Arceus dark"
+    "Name": "Arceus Dark"
   },
   {
     "Nat": "493-dragon",
-    "Name": "Arceus dragon"
+    "Name": "Arceus Dragon"
   },
   {
     "Nat": "493-electric",
-    "Name": "Arceus electric"
+    "Name": "Arceus Electric"
   },
   {
     "Nat": "493-fairy",
-    "Name": "Arceus fairy"
+    "Name": "Arceus Fairy"
   },
   {
     "Nat": "493-fighting",
-    "Name": "Arceus fighting"
+    "Name": "Arceus Fighting"
   },
   {
     "Nat": "493-fire",
-    "Name": "Arceus fire"
+    "Name": "Arceus Fire"
   },
   {
     "Nat": "493-flying",
-    "Name": "Arceus flying"
+    "Name": "Arceus Flying"
   },
   {
     "Nat": "493-ghost",
-    "Name": "Arceus ghost"
+    "Name": "Arceus Ghost"
   },
   {
     "Nat": "493-grass",
-    "Name": "Arceus grass"
+    "Name": "Arceus Grass"
   },
   {
     "Nat": "493-ground",
-    "Name": "Arceus ground"
+    "Name": "Arceus Ground"
   },
   {
     "Nat": "493-ice",
-    "Name": "Arceus ice"
+    "Name": "Arceus Ice"
   },
   {
     "Nat": "493-poison",
-    "Name": "Arceus poison"
+    "Name": "Arceus Poison"
   },
   {
     "Nat": "493-psychic",
-    "Name": "Arceus psychic"
+    "Name": "Arceus Psychic"
   },
   {
     "Nat": "493-rock",
-    "Name": "Arceus rock"
+    "Name": "Arceus Rock"
   },
   {
     "Nat": "493-steel",
-    "Name": "Arceus steel"
+    "Name": "Arceus Steel"
   },
   {
     "Nat": "493-water",
-    "Name": "Arceus water"
+    "Name": "Arceus Water"
   },
   {
     "Nat": 566,
@@ -289,11 +293,11 @@
   },
   {
     "Nat": "550-blue-striped",
-    "Name": "Basculin B"
+    "Name": "Basculin Blue"
   },
   {
     "Nat": "550-red-striped",
-    "Name": "Basculin R"
+    "Name": "Basculin Red"
   },
   {
     "Nat": 411,
@@ -317,7 +321,7 @@
   },
   {
     "Nat": "15-mega",
-    "Name": "Beedrill mega"
+    "Name": "Beedrill Mega"
   },
   {
     "Nat": 606,
@@ -364,16 +368,12 @@
     "Name": "Blacephalon"
   },
   {
-    "Nat": 0,
-    "Name": "Blank"
-  },
-  {
     "Nat": 9,
     "Name": "Blastoise"
   },
   {
     "Nat": "9-mega",
-    "Name": "Blastoise mega"
+    "Name": "Blastoise Mega"
   },
   {
     "Nat": 257,
@@ -381,7 +381,7 @@
   },
   {
     "Nat": "257-mega",
-    "Name": "Blaziken mega"
+    "Name": "Blaziken Mega"
   },
   {
     "Nat": 824,
@@ -469,15 +469,15 @@
   },
   {
     "Nat": "412-plant",
-    "Name": "Burmy plant"
+    "Name": "Burmy Plant"
   },
   {
     "Nat": "412-sandy",
-    "Name": "Burmy sandy"
+    "Name": "Burmy Sandy"
   },
   {
     "Nat": "412-trash",
-    "Name": "Burmy trash"
+    "Name": "Burmy Trash"
   },
   {
     "Nat": 12,
@@ -513,7 +513,7 @@
   },
   {
     "Nat": "323-mega",
-    "Name": "Camerupt mega"
+    "Name": "Camerupt Mega"
   },
   {
     "Nat": 703,
@@ -545,15 +545,15 @@
   },
   {
     "Nat": "351-snowy",
-    "Name": "Castform hail"
+    "Name": "Castform Hail"
   },
   {
     "Nat": "351-rainy",
-    "Name": "Castform rain"
+    "Name": "Castform Rain"
   },
   {
     "Nat": "351-sunny",
-    "Name": "Castform sun"
+    "Name": "Castform Sun"
   },
   {
     "Nat": 10,
@@ -585,11 +585,11 @@
   },
   {
     "Nat": "6-mega-x",
-    "Name": "Charizard mega X"
+    "Name": "Charizard Mega X"
   },
   {
     "Nat": "6-mega-y",
-    "Name": "Charizard mega Y"
+    "Name": "Charizard Mega Y"
   },
   {
     "Nat": 737,
@@ -613,7 +613,7 @@
   },
   {
     "Nat": "421-sunshine",
-    "Name": "Cherrim sun"
+    "Name": "Cherrim Sun"
   },
   {
     "Nat": 420,
@@ -840,16 +840,16 @@
     "Name": "Darmanitan"
   },
   {
+    "Nat": "555-zen",
+    "Name": "Darmanitan Zen"
+  },
+  {
     "Nat": "555-Galar",
     "Name": "Darmanitan Galar"
   },
   {
     "Nat": "555-Galar-Zen",
     "Name": "Darmanitan Galar Zen"
-  },
-  {
-    "Nat": "555-zen",
-    "Name": "Darmanitan Zen"
   },
   {
     "Nat": 723,
@@ -913,15 +913,15 @@
   },
   {
     "Nat": "386-attack",
-    "Name": "Deoxys attack"
+    "Name": "Deoxys Attack"
   },
   {
     "Nat": "386-defense",
-    "Name": "Deoxys defense"
+    "Name": "Deoxys Defense"
   },
   {
     "Nat": "386-speed",
-    "Name": "Deoxys speed"
+    "Name": "Deoxys Speed"
   },
   {
     "Nat": 87,
@@ -949,7 +949,7 @@
   },
   {
     "Nat": "719-mega",
-    "Name": "Diancie mega"
+    "Name": "Diancie Mega"
   },
   {
     "Nat": 660,
@@ -1129,7 +1129,7 @@
   },
   {
     "Nat": "875-Noice",
-    "Name": "Eiscue No"
+    "Name": "Eiscue No Ice"
   },
   {
     "Nat": 23,
@@ -1265,23 +1265,23 @@
   },
   {
     "Nat": "669-blue",
-    "Name": "Flabébé B"
+    "Name": "Flabébé Blue"
   },
   {
     "Nat": "669-orange",
-    "Name": "Flabébé O"
+    "Name": "Flabébé Orange"
   },
   {
     "Nat": "669-red",
-    "Name": "Flabébé R"
+    "Name": "Flabébé Red"
   },
   {
     "Nat": "669-white",
-    "Name": "Flabébé W"
+    "Name": "Flabébé White"
   },
   {
     "Nat": "669-yellow",
-    "Name": "Flabébé Y"
+    "Name": "Flabébé Yellow"
   },
   {
     "Nat": 841,
@@ -1309,23 +1309,23 @@
   },
   {
     "Nat": "670-blue",
-    "Name": "Floette B"
+    "Name": "Floette Blue"
   },
   {
     "Nat": "670-orange",
-    "Name": "Floette O"
+    "Name": "Floette Orange"
   },
   {
     "Nat": "670-red",
-    "Name": "Floette R"
+    "Name": "Floette Red"
   },
   {
     "Nat": "670-white",
-    "Name": "Floette W"
+    "Name": "Floette White"
   },
   {
     "Nat": "670-yellow",
-    "Name": "Floette Y"
+    "Name": "Floette Yellow"
   },
   {
     "Nat": 671,
@@ -1333,23 +1333,23 @@
   },
   {
     "Nat": "671-blue",
-    "Name": "Florges B"
+    "Name": "Florges Blue"
   },
   {
     "Nat": "671-orange",
-    "Name": "Florges O"
+    "Name": "Florges Orange"
   },
   {
     "Nat": "671-red",
-    "Name": "Florges R"
+    "Name": "Florges Red"
   },
   {
     "Nat": "671-white",
-    "Name": "Florges W"
+    "Name": "Florges White"
   },
   {
     "Nat": "671-yellow",
-    "Name": "Florges Y"
+    "Name": "Florges Yellow"
   },
   {
     "Nat": 330,
@@ -1373,11 +1373,11 @@
   },
   {
     "Nat": 592,
-    "Name": "Frillish"
+    "Name": "Frillish Male"
   },
   {
     "Nat": "592-female",
-    "Name": "Frillish F"
+    "Name": "Frillish Female"
   },
   {
     "Nat": 656,
@@ -1413,7 +1413,7 @@
   },
   {
     "Nat": "475-mega",
-    "Name": "Gallade mega"
+    "Name": "Gallade Mega"
   },
   {
     "Nat": 596,
@@ -1429,7 +1429,7 @@
   },
   {
     "Nat": "445-mega",
-    "Name": "Garchomp mega"
+    "Name": "Garchomp Mega"
   },
   {
     "Nat": 282,
@@ -1437,7 +1437,7 @@
   },
   {
     "Nat": "282-mega",
-    "Name": "Gardevoir mega"
+    "Name": "Gardevoir Mega"
   },
   {
     "Nat": 92,
@@ -1449,11 +1449,11 @@
   },
   {
     "Nat": "423-east",
-    "Name": "Gastrodon E"
+    "Name": "Gastrodon East"
   },
   {
     "Nat": "423-west",
-    "Name": "Gastrodon W"
+    "Name": "Gastrodon West"
   },
   {
     "Nat": 649,
@@ -1461,19 +1461,19 @@
   },
   {
     "Nat": "649-burn",
-    "Name": "Genesect burn"
+    "Name": "Genesect Burn"
   },
   {
     "Nat": "649-chill",
-    "Name": "Genesect chill"
+    "Name": "Genesect Chill"
   },
   {
     "Nat": "649-douse",
-    "Name": "Genesect douse"
+    "Name": "Genesect Douse"
   },
   {
     "Nat": "649-shock",
-    "Name": "Genesect shock"
+    "Name": "Genesect Shock"
   },
   {
     "Nat": 94,
@@ -1481,7 +1481,7 @@
   },
   {
     "Nat": "94-mega",
-    "Name": "Gengar mega"
+    "Name": "Gengar Mega"
   },
   {
     "Nat": 74,
@@ -1509,7 +1509,7 @@
   },
   {
     "Nat": "487-origin",
-    "Name": "Giratina origin"
+    "Name": "Giratina Origin"
   },
   {
     "Nat": 471,
@@ -1657,7 +1657,7 @@
   },
   {
     "Nat": "383-primal",
-    "Name": "Groudon primal"
+    "Name": "Groudon Primal"
   },
   {
     "Nat": 253,
@@ -1697,7 +1697,7 @@
   },
   {
     "Nat": "130-mega",
-    "Name": "Gyarados mega"
+    "Name": "Gyarados Mega"
   },
   {
     "Nat": 783,
@@ -1757,7 +1757,7 @@
   },
   {
     "Nat": "214-mega",
-    "Name": "Heracross mega"
+    "Name": "Heracross Mega"
   },
   {
     "Nat": 507,
@@ -1801,7 +1801,7 @@
   },
   {
     "Nat": "720-unbound",
-    "Name": "Hoopa unbound"
+    "Name": "Hoopa Unbound"
   },
   {
     "Nat": 163,
@@ -1821,7 +1821,7 @@
   },
   {
     "Nat": "229-mega",
-    "Name": "Houndoom mega"
+    "Name": "Houndoom Mega"
   },
   {
     "Nat": 228,
@@ -1861,11 +1861,11 @@
   },
   {
     "Nat": "876-F",
-    "Name": "Indeedee F"
+    "Name": "Indeedee Female"
   },
   {
     "Nat": "876-M",
-    "Name": "Indeedee M"
+    "Name": "Indeedee Male"
   },
   {
     "Nat": 392,
@@ -1889,11 +1889,11 @@
   },
   {
     "Nat": 593,
-    "Name": "Jellicent"
+    "Name": "Jellicent Male"
   },
   {
     "Nat": "593-female",
-    "Name": "Jellicent F"
+    "Name": "Jellicent Female"
   },
   {
     "Nat": 39,
@@ -2029,7 +2029,7 @@
   },
   {
     "Nat": "382-primal",
-    "Name": "Kyogre primal"
+    "Name": "Kyogre Primal"
   },
   {
     "Nat": 646,
@@ -2037,11 +2037,11 @@
   },
   {
     "Nat": "646-black",
-    "Name": "Kyurem B"
+    "Name": "Kyurem Black"
   },
   {
     "Nat": "646-white",
-    "Name": "Kyurem W"
+    "Name": "Kyurem White"
   },
   {
     "Nat": 305,
@@ -2057,7 +2057,7 @@
   },
   {
     "Nat": "645-therian",
-    "Name": "Landorus T"
+    "Name": "Landorus Therian"
   },
   {
     "Nat": 171,
@@ -2081,7 +2081,7 @@
   },
   {
     "Nat": "380-mega",
-    "Name": "Latias mega"
+    "Name": "Latias Mega"
   },
   {
     "Nat": 381,
@@ -2089,7 +2089,7 @@
   },
   {
     "Nat": "381-mega",
-    "Name": "Latios mega"
+    "Name": "Latios Mega"
   },
   {
     "Nat": 470,
@@ -2161,7 +2161,7 @@
   },
   {
     "Nat": "428-mega",
-    "Name": "Lopunny mega"
+    "Name": "Lopunny Mega"
   },
   {
     "Nat": 270,
@@ -2177,7 +2177,7 @@
   },
   {
     "Nat": "448-mega",
-    "Name": "Lucario mega"
+    "Name": "Lucario Mega"
   },
   {
     "Nat": 272,
@@ -2293,7 +2293,7 @@
   },
   {
     "Nat": "310-mega",
-    "Name": "Manectric mega"
+    "Name": "Manectric Mega"
   },
   {
     "Nat": 56,
@@ -2349,11 +2349,7 @@
   },
   {
     "Nat": "303-mega",
-    "Name": "Mawile mega"
-  },
-  {
-    "Nat": "800-ultra",
-    "Name": "Mecrozma ultra"
+    "Name": "Mawile Mega"
   },
   {
     "Nat": 308,
@@ -2361,7 +2357,7 @@
   },
   {
     "Nat": "308-mega",
-    "Name": "Medicham mega"
+    "Name": "Medicham Mega"
   },
   {
     "Nat": 307,
@@ -2409,7 +2405,7 @@
   },
   {
     "Nat": "376-mega",
-    "Name": "Metagross mega"
+    "Name": "Metagross Mega"
   },
   {
     "Nat": 375,
@@ -2429,11 +2425,11 @@
   },
   {
     "Nat": "150-mega-x",
-    "Name": "Mewtwo mega X"
+    "Name": "Mewtwo Mega X"
   },
   {
     "Nat": "150-mega-y",
-    "Name": "Mewtwo mega Y"
+    "Name": "Mewtwo Mega Y"
   },
   {
     "Nat": 619,
@@ -2477,31 +2473,31 @@
   },
   {
     "Nat": "774-blue",
-    "Name": "Minior blue"
+    "Name": "Minior Blue"
   },
   {
     "Nat": "774-green",
-    "Name": "Minior green"
+    "Name": "Minior Green"
   },
   {
     "Nat": "774-indigo",
-    "Name": "Minior indigo"
+    "Name": "Minior Indigo"
   },
   {
     "Nat": "774-orange",
-    "Name": "Minior orange"
+    "Name": "Minior Orange"
   },
   {
     "Nat": "774-red",
-    "Name": "Minior red"
+    "Name": "Minior Red"
   },
   {
     "Nat": "774-violet",
-    "Name": "Minior violet"
+    "Name": "Minior Violet"
   },
   {
     "Nat": "774-yellow",
-    "Name": "Minior yellow"
+    "Name": "Minior Yellow"
   },
   {
     "Nat": 312,
@@ -2609,11 +2605,15 @@
   },
   {
     "Nat": "800-dawn",
-    "Name": "Necrozma dawn"
+    "Name": "Necrozma Dawn"
   },
   {
     "Nat": "800-dusk",
-    "Name": "Necrozma dusk"
+    "Name": "Necrozma Dusk"
+  },
+    {
+    "Nat": "800-ultra",
+    "Name": "Necrozma Ultra"
   },
   {
     "Nat": 827,
@@ -2629,11 +2629,11 @@
   },
   {
     "Nat": 29,
-    "Name": "Nidoran F"
+    "Name": "Nidoran Female"
   },
   {
     "Nat": 32,
-    "Name": "Nidoran M"
+    "Name": "Nidoran Male"
   },
   {
     "Nat": 30,
@@ -2725,19 +2725,19 @@
   },
   {
     "Nat": "741-balie",
-    "Name": "Oricorio baile"
+    "Name": "Oricorio Baile"
   },
   {
     "Nat": "741-pau",
-    "Name": "Oricorio pau"
+    "Name": "Oricorio Pau"
   },
   {
     "Nat": "741-pom-pom",
-    "Name": "Oricorio pom-pom"
+    "Name": "Oricorio Pom-pom"
   },
   {
     "Nat": "741-sensu",
-    "Name": "Oricorio sensu"
+    "Name": "Oricorio Sensu"
   },
   {
     "Nat": 501,
@@ -2845,7 +2845,7 @@
   },
   {
     "Nat": "18-mega",
-    "Name": "Pidgeot mega"
+    "Name": "Pidgeot Mega"
   },
   {
     "Nat": 17,
@@ -2889,7 +2889,7 @@
   },
   {
     "Nat": "127-mega",
-    "Name": "Pinsir mega"
+    "Name": "Pinsir Mega"
   },
   {
     "Nat": 393,
@@ -3065,7 +3065,7 @@
   },
   {
     "Nat": "384-mega",
-    "Name": "Rayquaza mega"
+    "Name": "Rayquaza Mega"
   },
   {
     "Nat": 378,
@@ -3165,19 +3165,19 @@
   },
   {
     "Nat": "479-frost",
-    "Name": "Rotom frost"
+    "Name": "Rotom Frost"
   },
   {
     "Nat": "479-heat",
-    "Name": "Rotom heat"
+    "Name": "Rotom Heat"
   },
   {
     "Nat": "479-mow",
-    "Name": "Rotom mow"
+    "Name": "Rotom Mow"
   },
   {
     "Nat": "479-wash",
-    "Name": "Rotom wash"
+    "Name": "Rotom Wash"
   },
   {
     "Nat": 722,
@@ -3197,7 +3197,7 @@
   },
   {
     "Nat": "302-mega",
-    "Name": "Sableye mega"
+    "Name": "Sableye Mega"
   },
   {
     "Nat": 373,
@@ -3205,7 +3205,7 @@
   },
   {
     "Nat": "373-mega",
-    "Name": "Salamence mega"
+    "Name": "Salamence Mega"
   },
   {
     "Nat": 757,
@@ -3281,7 +3281,7 @@
   },
   {
     "Nat": "254-mega",
-    "Name": "Sceptile mega"
+    "Name": "Sceptile Mega"
   },
   {
     "Nat": 212,
@@ -3289,7 +3289,7 @@
   },
   {
     "Nat": "212-mega",
-    "Name": "Scizor mega"
+    "Name": "Scizor Mega"
   },
   {
     "Nat": 545,
@@ -3361,7 +3361,7 @@
   },
   {
     "Nat": "319-mega",
-    "Name": "Sharpedo mega"
+    "Name": "Sharpedo Mega"
   },
   {
     "Nat": 492,
@@ -3369,7 +3369,7 @@
   },
   {
     "Nat": "492-sky",
-    "Name": "Shaymin sky"
+    "Name": "Shaymin Sky"
   },
   {
     "Nat": 292,
@@ -3389,11 +3389,11 @@
   },
   {
     "Nat": "422-east",
-    "Name": "Shellos E"
+    "Name": "Shellos East"
   },
   {
     "Nat": "422-west",
-    "Name": "Shellos W"
+    "Name": "Shellos West"
   },
   {
     "Nat": 616,
@@ -3445,71 +3445,71 @@
   },
   {
     "Nat": "773-bug",
-    "Name": "Silvally bug"
+    "Name": "Silvally Bug"
   },
   {
     "Nat": "773-dark",
-    "Name": "Silvally dark"
+    "Name": "Silvally Dark"
   },
   {
     "Nat": "773-dragon",
-    "Name": "Silvally dragon"
+    "Name": "Silvally Dragon"
   },
   {
     "Nat": "773-fairy",
-    "Name": "Silvally fairy"
+    "Name": "Silvally Fairy"
   },
   {
     "Nat": "773-fighting",
-    "Name": "Silvally fighting"
+    "Name": "Silvally Fighting"
   },
   {
     "Nat": "773-fire",
-    "Name": "Silvally fire"
+    "Name": "Silvally Fire"
   },
   {
     "Nat": "773-flying",
-    "Name": "Silvally flying"
+    "Name": "Silvally Flying"
   },
   {
     "Nat": "773-ghost",
-    "Name": "Silvally ghost"
+    "Name": "Silvally Ghost"
   },
   {
     "Nat": "773-grass",
-    "Name": "Silvally grass"
+    "Name": "Silvally Grass"
   },
   {
     "Nat": "773-ground",
-    "Name": "Silvally ground"
+    "Name": "Silvally Ground"
   },
   {
     "Nat": "773-ice",
-    "Name": "Silvally ice"
+    "Name": "Silvally Ice"
   },
   {
     "Nat": "773-normal",
-    "Name": "Silvally normal"
+    "Name": "Silvally Normal"
   },
   {
     "Nat": "773-poison",
-    "Name": "Silvally poison"
+    "Name": "Silvally Poison"
   },
   {
     "Nat": "773-psychic",
-    "Name": "Silvally psychic"
+    "Name": "Silvally Psychic"
   },
   {
     "Nat": "773-rock",
-    "Name": "Silvally rock"
+    "Name": "Silvally Rock"
   },
   {
     "Nat": "773-steel",
-    "Name": "Silvally steel"
+    "Name": "Silvally Steel"
   },
   {
     "Nat": "773-water",
-    "Name": "Silvally water"
+    "Name": "Silvally Water"
   },
   {
     "Nat": 516,
@@ -3737,7 +3737,7 @@
   },
   {
     "Nat": "208-mega",
-    "Name": "Steelix mega"
+    "Name": "Steelix Mega"
   },
   {
     "Nat": 762,
@@ -3805,7 +3805,7 @@
   },
   {
     "Nat": "260-mega",
-    "Name": "Swampert mega"
+    "Name": "Swampert Mega"
   },
   {
     "Nat": 581,
@@ -3901,7 +3901,7 @@
   },
   {
     "Nat": "642-therian",
-    "Name": "Thundurus T"
+    "Name": "Thundurus Therian"
   },
   {
     "Nat": 811,
@@ -3945,7 +3945,7 @@
   },
   {
     "Nat": "641-therian",
-    "Name": "Tornadus T"
+    "Name": "Tornadus Therian"
   },
   {
     "Nat": 726,
@@ -3981,11 +3981,11 @@
   },
   {
     "Nat": "849-A",
-    "Name": "Toxtricity A"
+    "Name": "Toxtricity Amped"
   },
   {
     "Nat": "849-L",
-    "Name": "Toxtricity L"
+    "Name": "Toxtricity Low Key"
   },
   {
     "Nat": 520,
@@ -4049,7 +4049,7 @@
   },
   {
     "Nat": "248-mega",
-    "Name": "Tyranitar mega"
+    "Name": "Tyranitar Mega"
   },
   {
     "Nat": 697,
@@ -4069,23 +4069,15 @@
   },
   {
     "Nat": 521,
-    "Name": "Unfezant"
+    "Name": "Unfezant Male"
   },
   {
     "Nat": "521-f",
-    "Name": "Unfezant F"
+    "Name": "Unfezant Female"
   },
   {
     "Nat": 201,
     "Name": "Unown"
-  },
-  {
-    "Nat": "201-exclamation",
-    "Name": "Unown !"
-  },
-  {
-    "Nat": "201-question",
-    "Name": "Unown ?"
   },
   {
     "Nat": "201-a",
@@ -4192,6 +4184,14 @@
     "Name": "Unown Z"
   },
   {
+    "Nat": "201-exclamation",
+    "Name": "Unown !"
+  },
+  {
+    "Nat": "201-question",
+    "Name": "Unown ?"
+  },
+  {
     "Nat": 217,
     "Name": "Ursaring"
   },
@@ -4201,11 +4201,11 @@
   },
   {
     "Nat": "892-Rapid-Strike",
-    "Name": "Urshifu Rapid"
+    "Name": "Urshifu Rapid Strike"
   },
   {
     "Nat": "892-Single-Strike",
-    "Name": "Urshifu Single"
+    "Name": "Urshifu Single Strike"
   },
   {
     "Nat": 480,
@@ -4245,7 +4245,7 @@
   },
   {
     "Nat": "3-mega",
-    "Name": "Venusaur mega"
+    "Name": "Venusaur Mega"
   },
   {
     "Nat": 416,
@@ -4405,15 +4405,15 @@
   },
   {
     "Nat": "413-plant",
-    "Name": "Wormadam plant"
+    "Name": "Wormadam Plant"
   },
   {
     "Nat": "413-sandy",
-    "Name": "Wormadam sandy"
+    "Name": "Wormadam Sandy"
   },
   {
     "Nat": "413-trash",
-    "Name": "Wormadam trash"
+    "Name": "Wormadam Trash"
   },
   {
     "Nat": 265,
