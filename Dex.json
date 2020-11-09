@@ -496,12 +496,12 @@
     "Name": "Cacturne"
   },
   {
-    "Nat": "898-Ice",
-    "Name": "Calyrax Ice Rider"
-  },
-  {
     "Nat": 898,
     "Name": "Calyrex"
+  },
+  {
+    "Nat": "898-Ice",
+    "Name": "Calyrax Ice Rider"
   },
   {
     "Nat": "898-Shadow",
