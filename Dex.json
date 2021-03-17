@@ -1,7 +1,7 @@
 [
   {
     "Nat": 0,
-    "Name": "Blank"
+    "Name": "Pokémon Egg"
   },
   {
     "Nat": 460,
@@ -28,8 +28,12 @@
     "Name": "Accelgor"
   },
   {
-    "Nat": 681,
-    "Name": "Aegislash"
+    "Nat": "681-blade",
+    "Name": "Aegislash Blade"
+  },
+    {
+    "Nat": "681-shield",
+    "Name": "Aegislash Shield"
   },
   {
     "Nat": 142,
@@ -62,6 +66,10 @@
   {
     "Nat": 869,
     "Name": "Alcremie"
+  },
+  {
+    "Nat": "869-gmax",
+    "Name": "Alcremie Gygantamax"
   },
   {
     "Nat": 594,
@@ -102,6 +110,10 @@
   {
     "Nat": 842,
     "Name": "Appletun"
+  },
+    {
+    "Nat": "apple-gmax",
+    "Name": "Appletun Gygantamax"
   },
   {
     "Nat": 840,
@@ -239,6 +251,10 @@
     "Nat": 531,
     "Name": "Audino"
   },
+{
+    "Nat": "531-mega",
+    "Name": "Audino"
+  },
   {
     "Nat": 699,
     "Name": "Aurorus"
@@ -274,6 +290,10 @@
   {
     "Nat": 354,
     "Name": "Banette"
+  },
+    {
+    "Nat": "354-mega",
+    "Name": "Banette Mega"
   },
   {
     "Nat": 689,
@@ -374,6 +394,10 @@
   {
     "Nat": "9-mega",
     "Name": "Blastoise Mega"
+  },
+    {
+    "Nat": "9-gmax",
+    "Name": "Blastoise Gygantamax"
   },
   {
     "Nat": 257,
@@ -483,6 +507,10 @@
     "Nat": 12,
     "Name": "Butterfree"
   },
+    {
+    "Nat": "12-gmax",
+    "Name": "Butterfree Gygantamax"
+  },
   {
     "Nat": 794,
     "Name": "Buzzwole"
@@ -572,6 +600,10 @@
     "Name": "Centiskorch"
   },
   {
+    "Nat": "851-gmax",
+    "Name": "Centiskorch Gygantamax"
+  },
+  {
     "Nat": 609,
     "Name": "Chandelure"
   },
@@ -590,6 +622,10 @@
   {
     "Nat": "6-mega-y",
     "Name": "Charizard Mega Y"
+  },
+    {
+    "Nat": "6-gmax",
+    "Name": "Charizard Gygantamax"
   },
   {
     "Nat": 737,
@@ -659,6 +695,10 @@
     "Nat": 815,
     "Name": "Cinderace"
   },
+    {
+    "Nat": "815-gmax",
+    "Name": "Cinderace Gygantamax"
+  },
   {
     "Nat": 366,
     "Name": "Clamperl"
@@ -699,6 +739,10 @@
     "Nat": 839,
     "Name": "Coalossal"
   },
+    {
+    "Nat": "839-gmax",
+    "Name": "Coalossal Gygantamax"
+  },
   {
     "Nat": 638,
     "Name": "Cobalion"
@@ -728,6 +772,10 @@
     "Name": "Copperajah"
   },
   {
+    "Nat": "879-gmax",
+    "Name": "Copperajah Gygantamax"
+  },
+  {
     "Nat": 341,
     "Name": "Corphish"
   },
@@ -742,6 +790,10 @@
   {
     "Nat": 823,
     "Name": "Corviknight"
+  },
+  {
+    "Nat": "823-gmax",
+    "Name": "Corviknight Gygantamax"
   },
   {
     "Nat": 822,
@@ -774,6 +826,14 @@
   {
     "Nat": 845,
     "Name": "Cramorant"
+  },
+  {
+    "Nat": "845-fish",
+    "Name": "Cramorant Fish"
+  },
+  {
+    "Nat": "845-pikachu",
+    "Name": "Cramorant Pikachu"
   },
   {
     "Nat": 408,
@@ -844,11 +904,11 @@
     "Name": "Darmanitan Zen"
   },
   {
-    "Nat": "555-Galar",
+    "Nat": "555-galar",
     "Name": "Darmanitan Galar"
   },
   {
-    "Nat": "555-Galar-Zen",
+    "Nat": "555-galar-zen",
     "Name": "Darmanitan Galar Zen"
   },
   {
@@ -860,7 +920,7 @@
     "Name": "Darumaka"
   },
   {
-    "Nat": "554-Galar",
+    "Nat": "554-galar",
     "Name": "Darumaka Galar"
   },
   {
@@ -1032,6 +1092,10 @@
     "Name": "Drednaw"
   },
   {
+    "Nat": "834-gmax",
+    "Name": "Drednaw Gygantamax"
+  },
+  {
     "Nat": 885,
     "Name": "Dreepy"
   },
@@ -1088,6 +1152,10 @@
     "Name": "Duraludon"
   },
   {
+    "Nat": "884-gmax",
+    "Name": "Duraludon Gygantamax"
+  },
+  {
     "Nat": 632,
     "Name": "Durant"
   },
@@ -1123,12 +1191,16 @@
     "Nat": 133,
     "Name": "Eevee"
   },
+     {
+    "Nat": "133-gmax",
+    "Name": "Eevee Gygantamax"
+  },
   {
     "Nat": 875,
     "Name": "Eiscue"
   },
   {
-    "Nat": "875-Noice",
+    "Nat": "875-noice",
     "Name": "Eiscue No Ice"
   },
   {
@@ -1194,6 +1266,10 @@
   {
     "Nat": 890,
     "Name": "Eternatus"
+  },
+    {
+    "Nat": "890-emax",
+    "Name": "Eternatus Eternamax"
   },
   {
     "Nat": 530,
@@ -1287,6 +1363,10 @@
     "Nat": 841,
     "Name": "Flapple"
   },
+      {
+    "Nat": "apple-gmax",
+    "Name": "Flapple Gygantamax"
+  },
   {
     "Nat": 136,
     "Name": "Flareon"
@@ -1372,7 +1452,7 @@
     "Name": "Fraxure"
   },
   {
-    "Nat": 592,
+    "Nat": "592-male",
     "Name": "Frillish Male"
   },
   {
@@ -1422,6 +1502,10 @@
   {
     "Nat": 569,
     "Name": "Garbodor"
+  },
+  {
+    "Nat": "569-gmax",
+    "Name": "Garbodor Gygantamax"
   },
   {
     "Nat": 445,
@@ -1483,6 +1567,10 @@
     "Nat": "94-mega",
     "Name": "Gengar Mega"
   },
+    {
+    "Nat": "94-gmax",
+    "Name": "Gengar Gygantamax"
+  },
   {
     "Nat": 74,
     "Name": "Geodude"
@@ -1518,6 +1606,10 @@
   {
     "Nat": 362,
     "Name": "Glalie"
+  },
+    {
+    "Nat": "362-mega",
+    "Name": "Glalie Mega"
   },
   {
     "Nat": 431,
@@ -1631,6 +1723,10 @@
     "Nat": 658,
     "Name": "Greninja"
   },
+    {
+    "Nat": "658-ash",
+    "Name": "Ash Greninja"
+  },
   {
     "Nat": 88,
     "Name": "Grimer"
@@ -1642,6 +1738,10 @@
   {
     "Nat": 861,
     "Name": "Grimmsnarl"
+  },
+  {
+    "Nat": "861-gmax",
+    "Name": "Grimmsnarl Gygantamax"
   },
   {
     "Nat": 810,
@@ -1720,6 +1820,10 @@
     "Name": "Hatterene"
   },
   {
+    "Nat": "858-gmax",
+    "Name": "Hatterene Gygantamax"
+  },
+  {
     "Nat": 857,
     "Name": "Hattrem"
   },
@@ -1764,12 +1868,20 @@
     "Name": "Herdier"
   },
   {
-    "Nat": 449,
-    "Name": "Hippopotas"
+    "Nat": "449-male",
+    "Name": "Hippopotas Male"
+  },
+    {
+    "Nat": "449-female",
+    "Name": "Hippopotas Female"
   },
   {
-    "Nat": 450,
-    "Name": "Hippowdon"
+    "Nat": "450-male",
+    "Name": "Hippowdon Male"
+  },
+    {
+    "Nat": "450-female",
+    "Name": "Hippowdon Female"
   },
   {
     "Nat": 107,
@@ -1860,11 +1972,11 @@
     "Name": "Indeedee"
   },
   {
-    "Nat": "876-F",
+    "Nat": "876-female",
     "Name": "Indeedee Female"
   },
   {
-    "Nat": "876-M",
+    "Nat": "876-male",
     "Name": "Indeedee Male"
   },
   {
@@ -1880,6 +1992,10 @@
     "Name": "Inteleon"
   },
   {
+    "Nat": "818-gmax",
+    "Name": "Inteleon Gygantamax"
+  },
+  {
     "Nat": 2,
     "Name": "Ivysaur"
   },
@@ -1888,7 +2004,7 @@
     "Name": "Jangmo-o"
   },
   {
-    "Nat": 593,
+    "Nat": "593-male",
     "Name": "Jellicent Male"
   },
   {
@@ -1966,6 +2082,10 @@
   {
     "Nat": 99,
     "Name": "Kingler"
+  },
+    {
+    "Nat": "99-gmax",
+    "Name": "Kingler Gygantamax"
   },
   {
     "Nat": 281,
@@ -2223,6 +2343,10 @@
     "Nat": 68,
     "Name": "Machamp"
   },
+    {
+    "Nat": "68-gmax",
+    "Name": "Machamp Gygantamax"
+  },
   {
     "Nat": 67,
     "Name": "Machoke"
@@ -2242,6 +2366,10 @@
   {
     "Nat": 801,
     "Name": "Magearna"
+  },
+  {
+    "Nat": "801-original",
+    "Name": "Magearna Original"
   },
   {
     "Nat": 129,
@@ -2371,17 +2499,29 @@
     "Nat": 809,
     "Name": "Melmetal"
   },
+    {
+    "Nat": "809-gmax",
+    "Name": "Melmetal Gygantamax"
+  },
   {
     "Nat": 648,
     "Name": "Meloetta"
+  },
+  {
+    "Nat": "648-pirouette",
+    "Name": "Meloetta Pirouette"
   },
   {
     "Nat": 808,
     "Name": "Meltan"
   },
   {
-    "Nat": 678,
-    "Name": "Meowstic"
+    "Nat": "678-male",
+    "Name": "Meowstic Male"
+  },
+  {
+    "Nat": "678-female",
+    "Name": "Meowstic Female"
   },
   {
     "Nat": 52,
@@ -2394,6 +2534,10 @@
   {
     "Nat": "52-Galar",
     "Name": "Meowth Galar"
+  },
+    {
+    "Nat": "52-gmax",
+    "Name": "Meowth Gygantamax"
   },
   {
     "Nat": 481,
@@ -2720,6 +2864,10 @@
     "Name": "Orbeetle"
   },
   {
+    "Nat": "826-gmax",
+    "Name": "Orbeetle Gygantamax"
+  },
+  {
     "Nat": 741,
     "Name": "Oricorio"
   },
@@ -2867,6 +3015,10 @@
     "Nat": 25,
     "Name": "Pikachu"
   },
+    {
+    "Nat": "25-gmax",
+    "Name": "Pikachu Gygantamax"
+  },
   {
     "Nat": 731,
     "Name": "Pikipek"
@@ -2988,8 +3140,12 @@
     "Name": "Purugly"
   },
   {
-    "Nat": 668,
-    "Name": "Pyroar"
+    "Nat": "668-male",
+    "Name": "Pyroar Male"
+  },
+  {
+    "Nat": "668-female",
+    "Name": "Pyroar Female"
   },
   {
     "Nat": 771,
@@ -3128,6 +3284,10 @@
     "Name": "Rillaboom"
   },
   {
+    "Nat": "812-gmax",
+    "Name": "Rillaboom Gygantamax"
+  },
+  {
     "Nat": 447,
     "Name": "Riolu"
   },
@@ -3222,6 +3382,10 @@
   {
     "Nat": 844,
     "Name": "Sandaconda"
+  },
+  {
+    "Nat": "844-gmax",
+    "Name": "Sandaconda Gygantamax"
   },
   {
     "Nat": 551,
@@ -3636,6 +3800,10 @@
     "Name": "Snorlax"
   },
   {
+    "Nat": "143-gmax",
+    "Name": "Snorlax Gygantamax"
+  },
+  {
     "Nat": 361,
     "Name": "Snorunt"
   },
@@ -3760,7 +3928,7 @@
     "Name": "Stunfisk"
   },
   {
-    "Nat": "618-Galar",
+    "Nat": "618-galar",
     "Name": "Stunfisk Galar"
   },
   {
@@ -3976,16 +4144,16 @@
     "Name": "Toxicroak"
   },
   {
-    "Nat": 849,
-    "Name": "Toxtricity"
-  },
-  {
     "Nat": "849-A",
     "Name": "Toxtricity Amped"
   },
   {
     "Nat": "849-L",
     "Name": "Toxtricity Low Key"
+  },
+  {
+    "Nat": "849-gmax",
+    "Name": "Toxtricity Gygantamax"
   },
   {
     "Nat": 520,
@@ -4068,11 +4236,11 @@
     "Name": "Umbreon"
   },
   {
-    "Nat": 521,
+    "Nat": "521-male",
     "Name": "Unfezant Male"
   },
   {
-    "Nat": "521-f",
+    "Nat": "521-female",
     "Name": "Unfezant Female"
   },
   {
@@ -4200,11 +4368,11 @@
     "Name": "Urshifu"
   },
   {
-    "Nat": "892-Rapid-Strike",
+    "Nat": "892-Rapid",
     "Name": "Urshifu Rapid Strike"
   },
   {
-    "Nat": "892-Single-Strike",
+    "Nat": "892-Single",
     "Name": "Urshifu Single Strike"
   },
   {
@@ -4246,6 +4414,10 @@
   {
     "Nat": "3-mega",
     "Name": "Venusaur Mega"
+  },
+{
+    "Nat": "3-gmax",
+    "Name": "Venusaur Gygantamax"
   },
   {
     "Nat": 416,
@@ -4384,6 +4556,10 @@
     "Name": "Wishiwashi"
   },
   {
+    "Nat": "746-school",
+    "Name": "Wishiwashi School"
+  },
+  {
     "Nat": 202,
     "Name": "Wobbuffet"
   },
@@ -4440,7 +4616,7 @@
     "Name": "Yamask"
   },
   {
-    "Nat": "562-Galar",
+    "Nat": "562-galar",
     "Name": "Yamask Galar"
   },
   {
@@ -4468,7 +4644,7 @@
     "Name": "Zacian"
   },
   {
-    "Nat": "888-Hero",
+    "Nat": "888-hero",
     "Name": "Zacian Hero"
   },
   {
@@ -4476,7 +4652,7 @@
     "Name": "Zamazenta"
   },
   {
-    "Nat": "889-Hero",
+    "Nat": "889-hero",
     "Name": "Zamazenta Hero"
   },
   {
@@ -4488,7 +4664,7 @@
     "Name": "Zapdos"
   },
   {
-    "Nat": "145-Galar",
+    "Nat": "145-galar",
     "Name": "Zapdos Galar"
   },
   {
@@ -4512,7 +4688,7 @@
     "Name": "Zigzagoon"
   },
   {
-    "Nat": "263-Galar",
+    "Nat": "263-galar",
     "Name": "Zigzagoon Galar"
   },
   {
@@ -4534,5 +4710,13 @@
   {
     "Nat": 718,
     "Name": "Zygarde"
+  },
+  {
+    "Nat": "718-10",
+    "Name": "Zygarde 10%"
+  },
+  {
+    "Nat": "718-complete",
+    "Name": "Zygarde Complete"
   }
 ]
