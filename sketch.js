@@ -81,5 +81,5 @@ function drawTeam(w, h) {
 }
 
 function getImage(ID) {
-		return ("sprites/normal/" + (ID) + ".png");
+		return ("global-link/" + (ID) + ".png");
 }
