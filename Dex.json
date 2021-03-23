@@ -1532,10 +1532,6 @@
     "Name": "Gastly"
   },
   {
-    "Nat": 423,
-    "Name": "Gastrodon"
-  },
-  {
     "Nat": "423-east",
     "Name": "Gastrodon East"
   },
@@ -2194,6 +2190,10 @@
   {
     "Nat": 131,
     "Name": "Lapras"
+  },
+  {
+    "Nat": "131-gmax",
+    "Name": "Lapras Gygantamax"
   },
   {
     "Nat": 636,
@@ -3554,10 +3554,6 @@
   {
     "Nat": 90,
     "Name": "Shellder"
-  },
-  {
-    "Nat": 422,
-    "Name": "Shellos"
   },
   {
     "Nat": "422-east",
