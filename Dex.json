@@ -1,6 +1,10 @@
 [
   {
     "Nat": 0,
+    "Name": "Blank"
+  },
+  {
+    "Nat": "egg",
     "Name": "Pokémon Egg"
   },
   {
