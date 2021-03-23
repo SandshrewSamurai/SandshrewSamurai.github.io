@@ -4376,7 +4376,15 @@
     "Name": "Urshifu Rapid Strike"
   },
   {
+    "Nat": "892-Rapid-gmax",
+    "Name": "Urshifu Rapid Strike"
+  },
+  {
     "Nat": "892-Single",
+    "Name": "Urshifu Single Strike"
+  },
+  {
+    "Nat": "892-Single-gmax",
     "Name": "Urshifu Single Strike"
   },
   {
