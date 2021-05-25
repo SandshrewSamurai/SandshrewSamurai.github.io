@@ -89,9 +89,9 @@ function drawTeam(w, h) {
 
 function getImage(ID, isShiny) {
     if (isShiny) {
-        return ("Sprites/shiny/" + (ID) + ".png");
+        return ("sprites/shiny/" + (ID) + ".png");
     } else {
-		return ("Sprites/" + (ID) + ".png");        
+		return ("sprites/" + (ID) + ".png");        
     }
 
 }
