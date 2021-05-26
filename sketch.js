@@ -91,7 +91,7 @@ function getImage(ID, isShiny) {
     if (isShiny) {
         return ("sprites/shiny/" + (ID) + ".png");
     } else {
-		return ("sprites/" + (ID) + ".png");        
+		return ("Sprites/" + (ID) + ".png");        
     }
 
 }
