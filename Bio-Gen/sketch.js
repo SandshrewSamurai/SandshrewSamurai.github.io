@@ -1,5 +1,5 @@
 let bg;
-let pkmnID = 34;
+let pkmnID = 136;
 let pkmnImage;
 let typeImageOne;
 let typeImageTwo;
@@ -86,43 +86,13 @@ function visuals() {
         //Grey rectangle
         fill(51, 51, 51, 180);
         rect(0, 0, 780, 1010, 12, 12, 12, 12);
-
-        
-        //Pokémon Image
-        push();
-            let width = pkmnImage.width;
-            let height = pkmnImage.height;
-            //if (width > 650){
-                let multiplier = 500 / width;
-                width *= multiplier;
-                height *= multiplier;
-            //}
-            imageMode(CENTER);
-            image(pkmnImage, 380, 500, width, height);
-        pop();
     
-        //Type Images
-        if (typeImageTwo){
-            image(typeImageOne, 560, 700, 200, 100);
-            image(typeImageTwo, 560, 800, 200, 100);
-        } else {
-            image(typeImageOne, 560, 800, 200, 100);
-        }
-
         //Evolution Chain
         push();
             textSize(42);
             textAlign(LEFT, CENTER);
             drawEvoChain(evoChainData.chain);    
         pop();
-        
-        //Dex Number
-        //push();
-            //textSize(42);
-            //textAlign(LEFT, CENTER);
-            //fill(255);
-            //text("#" + pkmnID, 25, 100, 600, 100);
-        //pop();
     
     pop();
     
@@ -277,7 +247,6 @@ function drawEvoChain(chain){
     
     //Bottom white rectangle
     if (findLastInChain(chain) == name){
-        console.log("it's alive!");
         translate(0, -70);
         fill(255);
         rect(0, 0, 780, 100, 0, 0, 12, 12);
@@ -308,6 +277,34 @@ function nameRectangle(ident, xOff, spacing){
     rect(0, 0, 780, 100, a, a, b, b);
     fill(0);
     text(textFormat(ident), 50 + xOff, 0, 600, 100);
+    
+    if (spacingBool){
+        push();
+            //Dex Number
+            push();
+                textSize(42);
+                textAlign(LEFT, CENTER);
+                fill(255);
+                text("#" + pkmnID, 25, 100, 600, 100);
+            pop();
+        
+            //Pokémon Image
+            let multiplier = spacing / (pkmnImage.height * 2);
+            
+            imageMode(CENTER);
+            image(pkmnImage, 380, spacing / 2 + 70, pkmnImage.width * multiplier, pkmnImage.height * multiplier);
+        
+        
+            //Type Images
+            if (typeImageTwo){
+                image(typeImageOne, 600, spacing - 180, 200, 100);
+                image(typeImageTwo, 600, spacing - 70, 200, 100);
+            } else {
+                image(typeImageOne, 600, spacing - 70, 200, 100);
+            }
+
+        pop();
+    }
     
     translate(0, 70 + spacing * spacingBool)
 }
