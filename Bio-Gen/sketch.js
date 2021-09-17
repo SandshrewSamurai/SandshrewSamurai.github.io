@@ -1,5 +1,5 @@
 let bg;
-let pkmnID = 136;
+let pkmnID;
 let pkmnImage;
 let typeImageOne;
 let typeImageTwo;
@@ -25,6 +25,7 @@ function load() {
     
     getEvoChain(pokemonSpeciesData.evolution_chain.url);
     
+    //Load type Images
     let typeOne = pokemonData.types[0].type.name;
     typeImageOne = loadImage(`Types/${typeOne}.png`);
     
@@ -33,8 +34,9 @@ function load() {
         typeImageTwo = loadImage(`Types/${typeTwo}.png`);
     } catch {
         typeImageTwo = false;
-}
+    }
     
+    //Get abilities      
     abilOne = pokemonData.abilities[0].ability.name;
     getAbilityOne(pokemonData.abilities[0].ability.url);
     
@@ -49,6 +51,7 @@ function load() {
         abilTwo = false;
     }
     
+    //Get base stats
     for (let i = 0; i < 6; i++){
         baseStats.push(pokemonData.stats[i].base_stat);
     }
@@ -73,7 +76,8 @@ function draw() {
         noLoop();
     }
     catch {
-        console.log("ooops");
+        bottomEvo = false;
+        stages = 0;
     }
 }
 
@@ -204,15 +208,13 @@ function visuals() {
             rect(10, 9 + i * 61, baseStats[i] * 3, 55, 8, 8, 8, 8);
             
             push();
-            textSize(32);
-            textAlign(LEFT, CENTER);
-            fill(255);
-            //stroke(0);
-            //strokeWeight(3);
-            text(statNames[i], 18, 10 + i * 61, 780, 61);
-
-            textAlign(RIGHT, CENTER);
-            text(baseStats[i], 0, 10 + i * 61, 790, 61);
+                textSize(32);
+                textAlign(LEFT, CENTER);
+                fill(255);
+                text(statNames[i], 18, 10 + i * 61, 780, 61);
+                
+                textAlign(RIGHT, CENTER);
+                text(baseStats[i], 0, 10 + i * 61, 790, 61);
             pop();
             
             //Check if last bar
@@ -297,10 +299,10 @@ function nameRectangle(ident, xOff, spacing){
         
             //Type Images
             if (typeImageTwo){
-                image(typeImageOne, 600, spacing - 180, 200, 100);
-                image(typeImageTwo, 600, spacing - 70, 200, 100);
+                image(typeImageOne, 650, spacing - 170, 200, 100);
+                image(typeImageTwo, 650, spacing - 60, 200, 100);
             } else {
-                image(typeImageOne, 600, spacing - 70, 200, 100);
+                image(typeImageOne, 650, spacing - 60, 200, 100);
             }
 
         pop();
@@ -389,7 +391,6 @@ function getFlavourText(arr) {
             return i;
         }
     }
-
 }
 
 
