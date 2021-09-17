@@ -26,11 +26,11 @@ function load() {
     getEvoChain(pokemonSpeciesData.evolution_chain.url);
     
     //Load type Images
-    let typeOne = pokemonData.types[0].type.name;
+    let typeOne = pokemonData.types[0].type.name.toUpperCase();
     typeImageOne = loadImage(`Types/${typeOne}.png`);
     
     try {
-        let typeTwo = pokemonData.types[1].type.name;
+        let typeTwo = pokemonData.types[1].type.name.toUpperCase();
         typeImageTwo = loadImage(`Types/${typeTwo}.png`);
     } catch {
         typeImageTwo = false;
