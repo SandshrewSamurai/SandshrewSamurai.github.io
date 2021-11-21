@@ -1,5 +1,5 @@
 let bg;
-let pkmnID;
+let pkmnID = 39;
 let pkmnImage;
 let typeImageOne;
 let typeImageTwo;
@@ -26,11 +26,22 @@ function load() {
     getEvoChain(pokemonSpeciesData.evolution_chain.url);
     
     //Load type Images
-    let typeOne = pokemonData.types[0].type.name.toUpperCase();
+    let typeOne;
+    
+    if (pokemonData.past_types.length > 0 && pokemonData.past_types[0].generation.name != 'generation-i') {
+        typeOne = pokemonData.past_types[0].types[0].type.name.toUpperCase();
+    } else {
+        typeOne = pokemonData.types[0].type.name.toUpperCase();
+    }
     typeImageOne = loadImage(`Types/${typeOne}.png`);
     
     try {
-        let typeTwo = pokemonData.types[1].type.name.toUpperCase();
+        let typeTwo;
+        if (pokemonData.past_types.length > 0 && pokemonData.past_types[0].generation.name != 'generation-i') {
+            typeTwo = pokemonData.past_types[0].types[1].type.name.toUpperCase();
+        } else {
+            typeTwo = pokemonData.types[1].type.name.toUpperCase();
+        }
         typeImageTwo = loadImage(`Types/${typeTwo}.png`);
     } catch {
         typeImageTwo = false;
@@ -59,7 +70,7 @@ function load() {
 }
 
 function preload() {
-    pkmnID = floor(random(1,649));
+    //pkmnID = floor(random(1,649));
     getPokemon(pkmnID, getPokemonSpecies);
 }
 
@@ -410,6 +421,12 @@ function textFormat(text) {
             break;
         case "nidoran-f":
             return "Nidoran ♀";
+            break;
+        case "mr-mime":
+            return "Mr. Mime";
+            break;
+        case "mr-rime":
+            return "Mr. Rime";
             break;
         default:
             text = text.toLowerCase()
