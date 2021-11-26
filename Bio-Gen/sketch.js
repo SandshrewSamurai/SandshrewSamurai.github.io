@@ -70,7 +70,7 @@ function load() {
 }
 
 function preload() {
-    //pkmnID = floor(random(1,649));
+    pkmnID = floor(random(1,649));
     getPokemon(pkmnID, getPokemonSpecies);
 }
 
