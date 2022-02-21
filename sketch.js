@@ -1,58 +1,22 @@
-let team = [];
-let shiny = [];
-let dropdownData = [];
-
-function load() {
-}
+let teamData = [];
 
 function preload() {
     ballImg = loadImage("Pokeball.PNG");
+    if (localStorage.getItem("teamData")) {
+        teamData = JSON.parse(localStorage.getItem('teamData'));
+    }
 }
 
 function setup() {
-	let canvas = createCanvas(750, 450);
-    canvas.parent('sketch-holder');
+	let canvas = createCanvas(windowWidth, windowHeight);
+    drawTeam(windowWidth * 0.9, windowHeight * 0.9);
 }
 
 function draw() {
     noLoop();
 }
 
-function updateTeam(){
-    team = [];
-    shiny = [];
-    for (let i = 0; i < 6; i++) {
-        let pkmn = document.getElementById("pokemon-dropdown-" + i);
-        dropdownData[i] = pkmn.options[pkmn.selectedIndex].value;
-        let ID = pkmn.options[pkmn.selectedIndex].value;
-        if (ID == "Choose Pokémon"){
-            team.push("");
-        } else {
-            team.push(ID);
-        }
-        if (document.getElementById("shiny-" + i).checked){
-            shiny.push(true);
-        } else {
-            shiny.push(false);
-        }
-    }
-    drawTeam(750, 450);
-}
 
-function saveTeam(){
-    localStorage.setItem('dropdownData', JSON.stringify(dropdownData));
-}
-
-function loadTeam(){
-    if (localStorage.getItem("dropdownData")) {
-        dropdownData = JSON.parse(localStorage.getItem('dropdownData'));
-        for (let i = 0; i < 6; i++) {
-            let element = document.getElementById("pokemon-dropdown-" + i);
-            element.value = dropdownData[i];
-        }
-        updateTeam();
-    }
-}
 
 //Handles All Visuals
 function drawTeam(w, h) {
@@ -65,8 +29,8 @@ function drawTeam(w, h) {
 	clear();
 	//Load and Draw Required Pokemon
 	for (let i = 0; i < 6; i++) {
-		if (team[i] !== "") {
-			drawPokemon(x, y, size, team[i], shiny[i]);
+		if (teamData[((i + 1) * 2) - 2] !== "") {
+			drawPokemon(x, y, size, teamData[((i + 1) * 2) - 2], teamData[((i + 1) * 2) - 1]);
 
 			if (y == pad / 2){
 				y += size + pad;
@@ -75,16 +39,19 @@ function drawTeam(w, h) {
 				x += size + pad;
 			}
 		}
-	}
+    }
+    
+    //Listen for team change
+    window.onstorage = () => {
+        teamData = JSON.parse(localStorage.getItem('teamData'));
+        drawTeam(windowWidth * 0.9, windowHeight * 0.9);
+    };
+}
     
     //Loads and Displays Images
-    function drawPokemon(x, y, size, ID, isShiny){
-	//if (poke.exists) {
-		image(ballImg, x, y, size, size);
-		loadImage(getImage(ID, isShiny), img => image(img, x, y, size, size));
-	//}
-
-    }
+function drawPokemon(x, y, size, ID, isShiny){
+	image(ballImg, x, y, size, size);
+	loadImage(getImage(ID, isShiny), img => image(img, x, y, size, size));
 }
 
 function getImage(ID, isShiny) {

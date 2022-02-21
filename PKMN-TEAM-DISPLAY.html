@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+    <head>  
+        <meta charset="UTF-8">
+        <title>PKMN-TEAM-DISPLAY</title>
+        
+        <link rel="stylesheet" href="style.css">
+        
+        <!--- JQuery --->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+      
+    </head>
+      
+  <body>
+
+      <!-- PKMN TEAM Display UI -->    
+      <div><p>Pokémon 1</p></div>
+      <div>
+          <select id="pokemon-dropdown-0" name="pokemon-1"></select>
+          <input type="checkbox" id="shiny-0"><label>Shiny</label>
+      </div>
+      
+        
+      <div><p>Pokémon 2</p></div>
+      <div>
+          <select id="pokemon-dropdown-1" name="pokemon-2"></select>
+          <input type="checkbox" id="shiny-1"><label>Shiny</label>
+      </div>
+    
+
+      <div><p>Pokémon 3</p></div>
+      <div>
+          <select id="pokemon-dropdown-2" name="pokemon-3"></select>
+          <input type="checkbox" id="shiny-2"><label>Shiny</label>
+      </div>
+
+
+      <div><p>Pokémon 4</p></div>
+      <div>
+          <select id="pokemon-dropdown-3" name="pokemon-4"></select>
+          <input type="checkbox" id="shiny-3"><label>Shiny</label>
+      </div>
+
+
+      <div><p>Pokémon 5</p></div>
+      <div>
+          <select id="pokemon-dropdown-4" name="pokemon-5"></select>
+          <input type="checkbox" id="shiny-4"><label>Shiny</label>
+      </div>
+
+
+      <div><p>Pokémon 6</p></div>
+      <div>
+          <select id="pokemon-dropdown-5" name="pokemon-6"></select>
+          <input type="checkbox" id="shiny-5"><label>Shiny</label>
+      </div>
+
+      <br>
+
+      <div class="col-sm-2">
+          <input type="submit" class="btn btn-primary mx-auto" value="Save Team" onclick="updateTeam()">
+          <br><br>
+          <input type="submit" class="btn btn-primary mx-auto" value="Load Team" onclick="loadTeam()">
+      </div>
+      
+      <br>
+
+      <h2><a href = "team-display.html">copy this link for your browser source</a></h2>
+      
+      
+        <script>
+            let teamData = [];
+            
+            function updateTeam(){
+                teamData = [];
+                for (let i = 0; i < 6; i++) {
+                    let pkmn = document.getElementById("pokemon-dropdown-" + i);
+                    let ID = pkmn.options[pkmn.selectedIndex].value;
+                    if (ID == "Choose Pokémon"){
+                        teamData.push("0");
+                    } else {
+                        teamData.push(ID);
+                    }
+                    if (document.getElementById("shiny-" + i).checked){
+                        teamData.push(true);
+                    } else {
+                        teamData.push(false);
+                    }
+                }
+                
+                localStorage.setItem('teamData', JSON.stringify(teamData));
+            }
+
+
+            function loadTeam(){
+                if (localStorage.getItem("teamData")) {
+                    teamData = JSON.parse(localStorage.getItem('teamData'));
+                    for (let i = 0; i < 6; i++) {
+                        document.getElementById("pokemon-dropdown-" + i).value = teamData[((i + 1) * 2) - 2];
+                        if (teamData[((i + 1) * 2) - 1] == true){
+                            document.getElementById("shiny-" + i).checked = true;
+                        }else{
+                            document.getElementById("shiny-" + i).checked = false;
+                        }
+                    }
+                }
+            }
+            
+            
+            
+            for(let i = 0; i < 6; i++){
+                fillDropdown(i);
+            }
+            
+            function fillDropdown(i){
+                const url = 'Dex.json';
+
+                const request = new XMLHttpRequest();
+                request.open('GET', url, true);
+
+                let dropdown = document.getElementById('pokemon-dropdown-' + i);
+                dropdown.length = 0;
+
+                let defaultOption = document.createElement('option');
+                defaultOption.text = 'Choose Pokémon';
+
+                dropdown.add(defaultOption);
+                dropdown.selectedIndex = 0;
+
+                request.onload = function() {
+                    if (request.status === 200) {
+                        const data = JSON.parse(request.responseText);
+                        let option;
+                        for (let i = 0; i < data.length; i++) {
+                            option = document.createElement('option');
+                            option.text = data[i].Name;
+                            option.value = data[i].Nat;
+                            dropdown.add(option);
+                        }
+                    } else {
+                   // Reached the server, but it returned an error
+                    }   
+                }
+
+                request.onerror = function() {
+                    console.error('An error occurred fetching the JSON from ' + url);
+                };
+
+                request.send();
+            }
+        </script>
+
+
+    <footer>
+        Copyright &copy; SandshrewSamurai 2020-2022
+    </footer>
+
+  </body>
+</html>
