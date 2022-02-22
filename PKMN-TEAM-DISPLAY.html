@@ -55,16 +55,27 @@
           <input type="checkbox" id="shiny-5"><label>Shiny</label>
       </div>
 
+      
+      <div><p>Layout</p></div>
+      <div>
+          <select id="layout-dropdown" name="layout">
+              <option value="h1">Horizontal Line</option>
+              <option value="h2">2 Horizontal Lines</option>
+              <option value="v1">Vertical Line</option>
+              <option value="v2">2 Vertical Lines</option>
+          </select>
+      </div>
+      
       <br>
-
-      <div class="col-sm-2">
+      
+      <div>
           <input type="submit" class="btn btn-primary mx-auto" value="Save Team" onclick="updateTeam()">
           <br><br>
           <input type="submit" class="btn btn-primary mx-auto" value="Load Team" onclick="loadTeam()">
       </div>
-      
+            
       <br>
-
+      
       <h2><a href = "team-display.html">copy this link for your browser source</a></h2>
       
       
@@ -87,8 +98,8 @@
                         teamData.push(false);
                     }
                 }
-                
                 localStorage.setItem('teamData', JSON.stringify(teamData));
+                localStorage.setItem('layout', document.getElementById("layout-dropdown").options[document.getElementById("layout-dropdown").selectedIndex].value);
             }
 
 
