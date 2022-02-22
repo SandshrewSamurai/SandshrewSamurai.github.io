@@ -115,6 +115,9 @@
                         }
                     }
                 }
+                if (localStorage.getItem("layout")) {
+                    document.getElementById("layout-dropdown").value = localStorage.getItem("layout")
+                }
             }
             
             
