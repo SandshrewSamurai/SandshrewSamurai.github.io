@@ -80,6 +80,7 @@ function drawTeam(w, h) {
     //Listen for team change
     window.onstorage = () => {
         teamData = JSON.parse(localStorage.getItem('teamData'));
+        layout = localStorage.getItem('layout');
         drawTeam(windowWidth * 0.9, windowHeight * 0.9);
     };
 }
