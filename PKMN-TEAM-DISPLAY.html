@@ -72,6 +72,8 @@
           <input type="submit" class="btn btn-primary mx-auto" value="Save Team" onclick="updateTeam()">
           <br><br>
           <input type="submit" class="btn btn-primary mx-auto" value="Load Team" onclick="loadTeam()">
+          <br><br>
+          <input type="submit" class="btn btn-primary mx-auto" value="Reset" onclick="reset()">
       </div>
             
       <br>
@@ -120,7 +122,12 @@
                 }
             }
             
-            
+            function reset(){
+                for (let i = 0; i < 6; i++) {
+                    document.getElementById("pokemon-dropdown-" + i).value = 0;
+                    document.getElementById("shiny-" + i).checked = false; 
+                }
+            }
             
             for(let i = 0; i < 6; i++){
                 fillDropdown(i);
